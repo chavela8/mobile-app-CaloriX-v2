@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "واپس",
+    "save": "محفوظ کریں",
+    "cancel": "منسوخ کریں",
+    "delete": "حذف کریں",
+    "edit": "ترمیم کریں",
+    "loading": "لوڈ ہو رہا ہے...",
+    "search": "تلاش کریں",
+    "confirm": "تصدیق کریں",
+    "apply": "لاگو کریں"
+  },
+  "navigation": {
+    "home": "ہوم",
+    "profile": "پروفائل",
+    "settings": "ترتیبات",
+    "nutrition": "غذائیت",
+    "workouts": "ورزش",
+    "progress": "پیشرفت",
+    "analytics": "تجزیہ",
+    "articles": "مضامین"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "صحت مند غذا کی بنیادی باتیں",
+          "description": "متوازن غذا کے اصولوں کو سیکھیں",
+          "content": [
+            {
+              "subtitle": "متوازن غذا کیا ہے؟",
+              "text": "متوازن غذا کا مطلب ہے ایسی خوراک کھانا جو تمام ضروری غذائی اجزاء درست تناسب میں فراہم کرے۔ اس میں پروٹین، کاربوہائیڈریٹ، چربی، وٹامنز اور معدنیات شامل ہیں۔"
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "وزن کم کرنے کا غذائی منصوبہ",
+        "description": "1500 کیلوریز روزانہ",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "صحت مند ناشتہ",
+                    "description": "پھلوں کے ساتھ دلیہ",
+                    "ingredients": [
+                      {
+                        "name": "جئی",
+                        "amount": "50",
+                        "unit": "گرام"
+                      },
+                      {
+                        "name": "کیلا",
+                        "amount": "1",
+                        "unit": "عدد"
+                      },
+                      {
+                        "name": "دودھ 1%",
+                        "amount": "200",
+                        "unit": "ملی لیٹر"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

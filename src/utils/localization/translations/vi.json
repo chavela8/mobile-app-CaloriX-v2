@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Quay lại",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "edit": "Sửa",
+    "loading": "Đang tải...",
+    "search": "Tìm kiếm",
+    "confirm": "Xác nhận",
+    "apply": "Áp dụng"
+  },
+  "navigation": {
+    "home": "Trang chủ",
+    "profile": "Hồ sơ",
+    "settings": "Cài đặt",
+    "nutrition": "Dinh dưỡng",
+    "workouts": "Tập luyện",
+    "progress": "Tiến độ",
+    "analytics": "Phân tích",
+    "articles": "Bài viết"
+  },
+  "profile": {
+    "title": "Hồ sơ",
+    "level": "Cấp độ {{level}}",
+    "description": "Theo dõi hành trình tập luyện",
+    "achievements": "Thành tích",
+    "statistics": "Thống kê",
+    "goals": "Mục tiêu"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Kế hoạch ăn uống",
+    "dailyCalories": "Calo hàng ngày",
+    "waterIntake": "Lượng nước uống",
+    "macros": "Đại dinh dưỡng",
+    "foodDiary": "Nhật ký ăn uống",
+    "addMeal": "Thêm bữa ăn"
+  },
+  "settings": {
+    "language": "Ngôn ngữ",
+    "notifications": "Thông báo",
+    "units": "Đơn vị",
+    "privacy": "Quyền riêng tư",
+    "about": "Thông tin"
+  },
+  "subscription": {
+    "monthlyPlan": "Gói tháng",
+    "yearlyPlan": "Gói năm",
+    "currentPlan": "Gói hiện tại",
+    "features": {
+      "personalAI": "HLV AI cá nhân",
+      "unlimitedRecipes": "Công thức không giới hạn",
+      "advancedAnalytics": "Phân tích nâng cao"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Nguyên tắc cơ bản về ăn uống lành mạnh",
+          "description": "Tìm hiểu các nguyên tắc của chế độ ăn cân bằng",
+          "content": [
+            {
+              "subtitle": "Chế độ ăn cân bằng là gì?",
+              "text": "Chế độ ăn cân bằng nghĩa là tiêu thụ thực phẩm cung cấp tất cả các chất dinh dưỡng cần thiết theo tỷ lệ phù hợp. Điều này bao gồm protein, carbohydrate, chất béo, vitamin và khoáng chất."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Kế hoạch ăn uống để giảm cân",
+        "description": "1500 calo mỗi ngày",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Bữa sáng lành mạnh",
+                    "description": "Yến mạch với trái cây",
+                    "ingredients": [
+                      {
+                        "name": "Yến mạch",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Chuối",
+                        "amount": "1",
+                        "unit": "quả"
+                      },
+                      {
+                        "name": "Sữa 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

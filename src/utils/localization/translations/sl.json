@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "Nazaj",
+    "save": "Shrani",
+    "cancel": "Prekliči",
+    "delete": "Izbriši",
+    "edit": "Uredi",
+    "loading": "Nalaganje...",
+    "search": "Išči",
+    "confirm": "Potrdi",
+    "apply": "Uporabi"
+  },
+  "navigation": {
+    "home": "Domov",
+    "profile": "Profil",
+    "settings": "Nastavitve",
+    "nutrition": "Prehrana",
+    "workouts": "Vadba",
+    "progress": "Napredek",
+    "analytics": "Analitika",
+    "articles": "Članki"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Osnove zdrave prehrane",
+          "description": "Spoznajte načela uravnotežene prehrane",
+          "content": [
+            {
+              "subtitle": "Kaj je uravnotežena prehrana?",
+              "text": "Uravnotežena prehrana pomeni uživanje hrane, ki zagotavlja vsa potrebna hranila v pravilnih razmerjih. To vključuje beljakovine, ogljikove hidrate, maščobe, vitamine in minerale."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Prehranski načrt za izgubo teže",
+        "description": "1500 kalorij na dan",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Zdrav zajtrk",
+                    "description": "Ovsena kaša s sadjem",
+                    "ingredients": [
+                      {
+                        "name": "Ovseni kosmiči",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banana",
+                        "amount": "1",
+                        "unit": "kos"
+                      },
+                      {
+                        "name": "Mleko 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

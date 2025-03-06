@@ -1,0 +1,51 @@
+{
+  "common": {
+    "back": "Yza",
+    "save": "Saklamak",
+    "cancel": "Ýatyrmak",
+    "delete": "Pozmak",
+    "edit": "Üýtgetmek",
+    "loading": "Ýüklenýär..."
+  },
+  "navigation": {
+    "home": "Baş sahypa",
+    "profile": "Profil",
+    "settings": "Sazlamalar",
+    "nutrition": "Iýmit",
+    "workouts": "Türgenleşikler",
+    "progress": "Ösüş"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Dereje {{level}}",
+    "description": "Fitnes ýoluňyzy yzarlaň",
+    "achievements": "Gazananlar",
+    "statistics": "Statistika",
+    "goals": "Maksatlar"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Iýmit meýilnamasy",
+    "dailyCalories": "Gündelik kaloriýalar",
+    "waterIntake": "Suw kabul etmek",
+    "macros": "Makroelementler",
+    "foodDiary": "Iýmit gündeligi",
+    "addMeal": "Nahar goşmak"
+  },
+  "settings": {
+    "language": "Dil",
+    "notifications": "Duýduryşlar",
+    "units": "Ölçeg birlikleri",
+    "privacy": "Gizlinlik",
+    "about": "Barada"
+  },
+  "subscription": {
+    "monthlyPlan": "Aýlyk meýilnama",
+    "yearlyPlan": "Ýyllyk meýilnama",
+    "currentPlan": "Häzirki meýilnama",
+    "features": {
+      "personalAI": "Şahsy AI tälimçi",
+      "unlimitedRecipes": "Çäksiz reseptler",
+      "advancedAnalytics": "Giňişleýin analitika"
+    }
+  }
+} 

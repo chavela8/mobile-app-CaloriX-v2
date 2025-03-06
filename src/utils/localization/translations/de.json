@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Zurück",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "loading": "Wird geladen...",
+    "search": "Suchen",
+    "confirm": "Bestätigen",
+    "apply": "Anwenden"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "profile": "Profil",
+    "settings": "Einstellungen",
+    "nutrition": "Ernährung",
+    "workouts": "Workouts",
+    "progress": "Fortschritt",
+    "analytics": "Analysen",
+    "articles": "Artikel"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Level {{level}}",
+    "description": "Verfolgen Sie Ihre Fitness-Reise",
+    "achievements": "Erfolge",
+    "statistics": "Statistiken",
+    "goals": "Ziele"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Ernährungsplan",
+    "dailyCalories": "Tägliche Kalorien",
+    "waterIntake": "Wasseraufnahme",
+    "macros": "Makronährstoffe",
+    "foodDiary": "Ernährungstagebuch",
+    "addMeal": "Mahlzeit hinzufügen"
+  },
+  "settings": {
+    "language": "Sprache",
+    "notifications": "Benachrichtigungen",
+    "units": "Einheiten",
+    "privacy": "Datenschutz",
+    "about": "Über"
+  },
+  "subscription": {
+    "monthlyPlan": "Monatsplan",
+    "yearlyPlan": "Jahresplan",
+    "currentPlan": "Aktueller Plan",
+    "features": {
+      "personalAI": "Persönlicher KI-Trainer",
+      "unlimitedRecipes": "Unbegrenzte Rezepte",
+      "advancedAnalytics": "Erweiterte Analysen"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Grundlagen gesunder Ernährung",
+          "description": "Lernen Sie die Prinzipien ausgewogener Ernährung kennen",
+          "content": [
+            {
+              "subtitle": "Was ist ausgewogene Ernährung?",
+              "text": "Eine ausgewogene Ernährung bedeutet, Lebensmittel zu sich zu nehmen, die alle notwendigen Nährstoffe in den richtigen Proportionen liefern. Dazu gehören Proteine, Kohlenhydrate, Fette, Vitamine und Mineralstoffe."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Ernährungsplan zur Gewichtsabnahme",
+        "description": "1500 Kalorien pro Tag",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Gesundes Frühstück",
+                    "description": "Haferflocken mit Obst",
+                    "ingredients": [
+                      {
+                        "name": "Haferflocken",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banane",
+                        "amount": "1",
+                        "unit": "Stück"
+                      },
+                      {
+                        "name": "Milch 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

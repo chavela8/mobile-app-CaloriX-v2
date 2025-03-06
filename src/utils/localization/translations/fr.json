@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Retour",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "loading": "Chargement...",
+    "search": "Rechercher",
+    "confirm": "Confirmer",
+    "apply": "Appliquer"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "nutrition": "Nutrition",
+    "workouts": "Entraînements",
+    "progress": "Progrès",
+    "analytics": "Analyses",
+    "articles": "Articles"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Niveau {{level}}",
+    "description": "Suivez votre parcours fitness",
+    "achievements": "Réalisations",
+    "statistics": "Statistiques",
+    "goals": "Objectifs"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Plan de Repas",
+    "dailyCalories": "Calories Journalières",
+    "waterIntake": "Consommation d'Eau",
+    "macros": "Macronutriments",
+    "foodDiary": "Journal Alimentaire",
+    "addMeal": "Ajouter un Repas"
+  },
+  "settings": {
+    "language": "Langue",
+    "notifications": "Notifications",
+    "units": "Unités",
+    "privacy": "Confidentialité",
+    "about": "À propos"
+  },
+  "subscription": {
+    "monthlyPlan": "Plan Mensuel",
+    "yearlyPlan": "Plan Annuel",
+    "currentPlan": "Plan Actuel",
+    "features": {
+      "personalAI": "Entraîneur IA Personnel",
+      "unlimitedRecipes": "Recettes Illimitées",
+      "advancedAnalytics": "Analyses Avancées"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Les Fondamentaux d'une Alimentation Saine",
+          "description": "Découvrez les principes d'une alimentation équilibrée",
+          "content": [
+            {
+              "subtitle": "Qu'est-ce qu'une alimentation équilibrée ?",
+              "text": "Une alimentation équilibrée consiste à consommer des aliments qui fournissent tous les nutriments nécessaires dans les bonnes proportions. Cela inclut les protéines, les glucides, les lipides, les vitamines et les minéraux."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Programme Alimentaire pour la Perte de Poids",
+        "description": "1500 calories par jour",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Petit-déjeuner Sain",
+                    "description": "Flocons d'avoine aux fruits",
+                    "ingredients": [
+                      {
+                        "name": "Flocons d'avoine",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banane",
+                        "amount": "1",
+                        "unit": "pièce"
+                      },
+                      {
+                        "name": "Lait 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

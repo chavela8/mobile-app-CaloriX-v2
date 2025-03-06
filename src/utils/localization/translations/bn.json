@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "পিছনে",
+    "save": "সংরক্ষণ",
+    "cancel": "বাতিল",
+    "delete": "মুছুন",
+    "edit": "সম্পাদনা",
+    "loading": "লোড হচ্ছে...",
+    "search": "অনুসন্ধান",
+    "confirm": "নিশ্চিত করুন",
+    "apply": "প্রয়োগ করুন"
+  },
+  "navigation": {
+    "home": "হোম",
+    "profile": "প্রোফাইল",
+    "settings": "সেটিংস",
+    "nutrition": "পুষ্টি",
+    "workouts": "ব্যায়াম",
+    "progress": "অগ্রগতি",
+    "analytics": "বিশ্লেষণ",
+    "articles": "নিবন্ধ"
+  },
+  "profile": {
+    "title": "প্রোফাইল",
+    "level": "লেভেল {{level}}",
+    "description": "আপনার ফিটনেস যাত্রা ট্র্যাক করুন",
+    "achievements": "অর্জন",
+    "statistics": "পরিসংখ্যান",
+    "goals": "লক্ষ্য"
+  },
+  "nutrition": {
+    "mealPlanTitle": "খাবারের পরিকল্পনা",
+    "dailyCalories": "দৈনিক ক্যালরি",
+    "waterIntake": "পানি পান",
+    "macros": "ম্যাক্রোনিউট্রিয়েন্টস",
+    "foodDiary": "খাদ্য ডায়েরি",
+    "addMeal": "খাবার যোগ করুন"
+  },
+  "settings": {
+    "language": "ভাষা",
+    "notifications": "বিজ্ঞপ্তি",
+    "units": "একক",
+    "privacy": "গোপনীয়তা",
+    "about": "সম্পর্কে"
+  },
+  "subscription": {
+    "monthlyPlan": "মাসিক প্ল্যান",
+    "yearlyPlan": "বার্ষিক প্ল্যান",
+    "currentPlan": "বর্তমান প্ল্যান",
+    "features": {
+      "personalAI": "ব্যক্তিগত AI প্রশিক্ষক",
+      "unlimitedRecipes": "অসীম রেসিপি",
+      "advancedAnalytics": "উন্নত বিশ্লেষণ"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "স্বাস্থ্যকর খাবারের মূলনীতি",
+          "description": "সুষম খাবারের নীতিগুলি জানুন",
+          "content": [
+            {
+              "subtitle": "সুষম খাবার কী?",
+              "text": "সুষম খাবার মানে এমন খাবার খাওয়া যা সঠিক অনুপাতে সমস্ত প্রয়োজনীয় পুষ্টি উপাদান সরবরাহ করে। এর মধ্যে প্রোটিন, কার্বোহাইড্রেট, ফ্যাট, ভিটামিন এবং খনিজ পদার্থ অন্তর্ভুক্ত।"
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "ওজন কমানোর খাবার পরিকল্পনা",
+        "description": "1500 ক্যালরি প্রতিদিন",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "স্বাস্থ্যকর নাস্তা",
+                    "description": "ফলের সাথে ওটস",
+                    "ingredients": [
+                      {
+                        "name": "ওটস",
+                        "amount": "50",
+                        "unit": "গ্রাম"
+                      },
+                      {
+                        "name": "কলা",
+                        "amount": "1",
+                        "unit": "টি"
+                      },
+                      {
+                        "name": "দুধ 1%",
+                        "amount": "200",
+                        "unit": "মি.লি"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "חזור",
+    "save": "שמור",
+    "cancel": "בטל",
+    "delete": "מחק",
+    "edit": "ערוך",
+    "loading": "טוען...",
+    "search": "חיפוש",
+    "confirm": "אשר",
+    "apply": "החל"
+  },
+  "navigation": {
+    "home": "דף הבית",
+    "profile": "פרופיל",
+    "settings": "הגדרות",
+    "nutrition": "תזונה",
+    "workouts": "אימונים",
+    "progress": "התקדמות",
+    "analytics": "ניתוח",
+    "articles": "מאמרים"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "יסודות התזונה הבריאה",
+          "description": "למד את עקרונות התזונה המאוזנת",
+          "content": [
+            {
+              "subtitle": "מהי תזונה מאוזנת?",
+              "text": "תזונה מאוזנת פירושה צריכת מזון המספק את כל חומרי התזונה החיוניים ביחסים הנכונים. זה כולל חלבונים, פחמימות, שומנים, ויטמינים ומינרלים."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "תוכנית תזונה לירידה במשקל",
+        "description": "1500 קלוריות ליום",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "ארוחת בוקר בריאה",
+                    "description": "דייסת שיבולת שועל עם פירות",
+                    "ingredients": [
+                      {
+                        "name": "שיבולת שועל",
+                        "amount": "50",
+                        "unit": "גרם"
+                      },
+                      {
+                        "name": "בננה",
+                        "amount": "1",
+                        "unit": "יחידה"
+                      },
+                      {
+                        "name": "חלב 1%",
+                        "amount": "200",
+                        "unit": "מ״ל"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

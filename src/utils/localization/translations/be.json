@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Назад",
+    "save": "Захаваць",
+    "cancel": "Скасаваць",
+    "delete": "Выдаліць",
+    "edit": "Рэдагаваць",
+    "loading": "Загрузка...",
+    "search": "Пошук",
+    "confirm": "Пацвердзіць",
+    "apply": "Ужыць"
+  },
+  "navigation": {
+    "home": "Галоўная",
+    "profile": "Профіль",
+    "settings": "Налады",
+    "nutrition": "Харчаванне",
+    "workouts": "Трэніроўкі",
+    "progress": "Прагрэс",
+    "analytics": "Аналітыка",
+    "articles": "Артыкулы"
+  },
+  "profile": {
+    "title": "Профіль",
+    "level": "Узровень {{level}}",
+    "description": "Сачыце за сваім фітнес-шляхам",
+    "achievements": "Дасягненні",
+    "statistics": "Статыстыка",
+    "goals": "Мэты"
+  },
+  "nutrition": {
+    "mealPlanTitle": "План харчавання",
+    "dailyCalories": "Дзённыя калорыі",
+    "waterIntake": "Спажыванне вады",
+    "macros": "Макраэлементы",
+    "foodDiary": "Дзённік харчавання",
+    "addMeal": "Дадаць прыём ежы"
+  },
+  "settings": {
+    "language": "Мова",
+    "notifications": "Апавяшчэнні",
+    "units": "Адзінкі вымярэння",
+    "privacy": "Прыватнасць",
+    "about": "Пра праграму"
+  },
+  "subscription": {
+    "monthlyPlan": "Месячны план",
+    "yearlyPlan": "Гадавы план",
+    "currentPlan": "Бягучы план",
+    "features": {
+      "personalAI": "Персанальны AI-трэнер",
+      "unlimitedRecipes": "Неабмежаваныя рэцэпты",
+      "advancedAnalytics": "Пашыраная аналітыка"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Асновы здаровага харчавання",
+          "description": "Вывучыце прынцыпы збалансаванага харчавання",
+          "content": [
+            {
+              "subtitle": "Што такое збалансаванае харчаванне?",
+              "text": "Збалансаванае харчаванне азначае спажыванне ежы, якая забяспечвае ўсе неабходныя пажыўныя рэчывы ў правільных прапорцыях. Гэта ўключае бялкі, вугляводы, тлушчы, вітаміны і мінералы."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "План харчавання для зніжэння вагі",
+        "description": "1500 калорый у дзень",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Здаровы сняданак",
+                    "description": "Аўсянка з садавіной",
+                    "ingredients": [
+                      {
+                        "name": "Аўсяныя шматкі",
+                        "amount": "50",
+                        "unit": "г"
+                      },
+                      {
+                        "name": "Банан",
+                        "amount": "1",
+                        "unit": "шт"
+                      },
+                      {
+                        "name": "Малако 1%",
+                        "amount": "200",
+                        "unit": "мл"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

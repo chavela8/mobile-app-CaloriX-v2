@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Bali",
+    "save": "Simpen",
+    "cancel": "Batal",
+    "delete": "Busak",
+    "edit": "Owahi",
+    "loading": "Ngamot...",
+    "search": "Goleki",
+    "confirm": "Konfirmasi",
+    "apply": "Terapake"
+  },
+  "navigation": {
+    "home": "Ngarep",
+    "profile": "Profil",
+    "settings": "Setelan",
+    "nutrition": "Nutrisi",
+    "workouts": "Olahraga",
+    "progress": "Progres",
+    "analytics": "Analisis",
+    "articles": "Artikel"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Level {{level}}",
+    "description": "Lacak perjalanan kebugaran sampeyan",
+    "achievements": "Prestasi",
+    "statistics": "Statistik",
+    "goals": "Tujuan"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Rencana Pangan",
+    "dailyCalories": "Kalori Saben Dina",
+    "waterIntake": "Ngombe Banyu",
+    "macros": "Makronutrien",
+    "foodDiary": "Catetan Pangan",
+    "addMeal": "Tambah Pangan"
+  },
+  "settings": {
+    "language": "Basa",
+    "notifications": "Notifikasi",
+    "units": "Unit",
+    "privacy": "Privasi",
+    "about": "Ngenani"
+  },
+  "subscription": {
+    "monthlyPlan": "Rencana Wulanan",
+    "yearlyPlan": "Rencana Taunan",
+    "currentPlan": "Rencana Saiki",
+    "features": {
+      "personalAI": "Pelatih AI Pribadi",
+      "unlimitedRecipes": "Resep Tanpa Wates",
+      "advancedAnalytics": "Analisis Lanjut"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Dasar-Dasar Pangan Sehat",
+          "description": "Sinau prinsip pangan sing seimbang",
+          "content": [
+            {
+              "subtitle": "Apa kuwi pangan seimbang?",
+              "text": "Pangan seimbang yaiku konsumsi panganan sing nyediakake kabeh zat gizi sing dibutuhake kanthi proporsi sing bener. Iki kalebu protein, karbohidrat, lemak, vitamin lan mineral."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Program Pangan kanggo Ngurangi Bobot",
+        "description": "1500 kalori saben dina",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Sarapan Sehat",
+                    "description": "Oats karo woh-wohan",
+                    "ingredients": [
+                      {
+                        "name": "Oats",
+                        "amount": "50",
+                        "unit": "gram"
+                      },
+                      {
+                        "name": "Gedhang",
+                        "amount": "1",
+                        "unit": "iji"
+                      },
+                      {
+                        "name": "Susu 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

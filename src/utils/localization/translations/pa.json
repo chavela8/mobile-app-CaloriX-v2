@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "ਪਿੱਛੇ",
+    "save": "ਸੰਭਾਲੋ",
+    "cancel": "ਰੱਦ ਕਰੋ",
+    "delete": "ਮਿਟਾਓ",
+    "edit": "ਸੋਧੋ",
+    "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "search": "ਖੋਜ",
+    "confirm": "ਪੁਸ਼ਟੀ ਕਰੋ",
+    "apply": "ਲਾਗੂ ਕਰੋ"
+  },
+  "navigation": {
+    "home": "ਹੋਮ",
+    "profile": "ਪ੍ਰੋਫਾਈਲ",
+    "settings": "ਸੈਟਿੰਗਾਂ",
+    "nutrition": "ਪੋਸ਼ਣ",
+    "workouts": "ਕਸਰਤ",
+    "progress": "ਤਰੱਕੀ",
+    "analytics": "ਵਿਸ਼ਲੇਸ਼ਣ",
+    "articles": "ਲੇਖ"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "ਸਿਹਤਮੰਦ ਖੁਰਾਕ ਦੇ ਮੂਲ ਸਿਧਾਂਤ",
+          "description": "ਸੰਤੁਲਿਤ ਖੁਰਾਕ ਦੇ ਸਿਧਾਂਤਾਂ ਨੂੰ ਜਾਣੋ",
+          "content": [
+            {
+              "subtitle": "ਸੰਤੁਲਿਤ ਖੁਰਾਕ ਕੀ ਹੈ?",
+              "text": "ਸੰਤੁਲਿਤ ਖੁਰਾਕ ਦਾ ਮਤਲਬ ਹੈ ਅਜਿਹਾ ਭੋਜਨ ਖਾਣਾ ਜੋ ਸਾਰੇ ਜ਼ਰੂਰੀ ਪੋਸ਼ਕ ਤੱਤ ਸਹੀ ਅਨੁਪਾਤ ਵਿੱਚ ਪ੍ਰਦਾਨ ਕਰੇ। ਇਸ ਵਿੱਚ ਪ੍ਰੋਟੀਨ, ਕਾਰਬੋਹਾਈਡਰੇਟ, ਚਰਬੀ, ਵਿਟਾਮਿਨ ਅਤੇ ਖਣਿਜ ਸ਼ਾਮਲ ਹਨ।"
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "ਭਾਰ ਘਟਾਉਣ ਲਈ ਖੁਰਾਕ ਯੋਜਨਾ",
+        "description": "1500 ਕੈਲੋਰੀਆਂ ਪ੍ਰਤੀ ਦਿਨ",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "ਸਿਹਤਮੰਦ ਨਾਸ਼ਤਾ",
+                    "description": "ਫਲਾਂ ਨਾਲ ਓਟਸ",
+                    "ingredients": [
+                      {
+                        "name": "ਓਟਸ",
+                        "amount": "50",
+                        "unit": "ਗ੍ਰਾਮ"
+                      },
+                      {
+                        "name": "ਕੇਲਾ",
+                        "amount": "1",
+                        "unit": "ਨੰਬਰ"
+                      },
+                      {
+                        "name": "ਦੁੱਧ 1%",
+                        "amount": "200",
+                        "unit": "ਮਿ.ਲੀ"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Vissza",
+    "save": "Mentés",
+    "cancel": "Mégse",
+    "delete": "Törlés",
+    "edit": "Szerkesztés",
+    "loading": "Betöltés...",
+    "search": "Keresés",
+    "confirm": "Megerősítés",
+    "apply": "Alkalmazás"
+  },
+  "navigation": {
+    "home": "Kezdőlap",
+    "profile": "Profil",
+    "settings": "Beállítások",
+    "nutrition": "Táplálkozás",
+    "workouts": "Edzések",
+    "progress": "Haladás",
+    "analytics": "Elemzés",
+    "articles": "Cikkek"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Szint {{level}}",
+    "description": "Kövesd fitness utadat",
+    "achievements": "Eredmények",
+    "statistics": "Statisztikák",
+    "goals": "Célok"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Étkezési terv",
+    "dailyCalories": "Napi kalória",
+    "waterIntake": "Vízfogyasztás",
+    "macros": "Makrotápanyagok",
+    "foodDiary": "Étkezési napló",
+    "addMeal": "Étkezés hozzáadása"
+  },
+  "settings": {
+    "language": "Nyelv",
+    "notifications": "Értesítések",
+    "units": "Mértékegységek",
+    "privacy": "Adatvédelem",
+    "about": "Névjegy"
+  },
+  "subscription": {
+    "monthlyPlan": "Havi terv",
+    "yearlyPlan": "Éves terv",
+    "currentPlan": "Jelenlegi terv",
+    "features": {
+      "personalAI": "Személyi AI edző",
+      "unlimitedRecipes": "Korlátlan receptek",
+      "advancedAnalytics": "Fejlett elemzések"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Az egészséges táplálkozás alapjai",
+          "description": "Ismerje meg a kiegyensúlyozott étrend elveit",
+          "content": [
+            {
+              "subtitle": "Mi a kiegyensúlyozott étrend?",
+              "text": "A kiegyensúlyozott étrend azt jelenti, hogy olyan ételeket fogyasztunk, amelyek minden szükséges tápanyagot megfelelő arányban biztosítanak. Ez magában foglalja a fehérjéket, szénhidrátokat, zsírokat, vitaminokat és ásványi anyagokat."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Étkezési terv fogyáshoz",
+        "description": "1500 kalória naponta",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Egészséges reggeli",
+                    "description": "Zabkása gyümölccsel",
+                    "ingredients": [
+                      {
+                        "name": "Zabpehely",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banán",
+                        "amount": "1",
+                        "unit": "db"
+                      },
+                      {
+                        "name": "1%-os tej",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "返回",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "loading": "加载中...",
+    "search": "搜索",
+    "confirm": "确认",
+    "apply": "应用"
+  },
+  "navigation": {
+    "home": "首页",
+    "profile": "个人资料",
+    "settings": "设置",
+    "nutrition": "营养",
+    "workouts": "运动",
+    "progress": "进度",
+    "analytics": "分析",
+    "articles": "文章"
+  },
+  "profile": {
+    "title": "个人资料",
+    "level": "等级 {{level}}",
+    "description": "追踪您的健身之旅",
+    "achievements": "成就",
+    "statistics": "统计",
+    "goals": "目标"
+  },
+  "nutrition": {
+    "mealPlanTitle": "膳食计划",
+    "dailyCalories": "每日卡路里",
+    "waterIntake": "饮水量",
+    "macros": "宏量营养素",
+    "foodDiary": "饮食日记",
+    "addMeal": "添加餐食"
+  },
+  "settings": {
+    "language": "语言",
+    "notifications": "通知",
+    "units": "单位",
+    "privacy": "隐私",
+    "about": "关于"
+  },
+  "subscription": {
+    "monthlyPlan": "月度计划",
+    "yearlyPlan": "年度计划",
+    "currentPlan": "当前计划",
+    "features": {
+      "personalAI": "个人AI教练",
+      "unlimitedRecipes": "无限食谱",
+      "advancedAnalytics": "高级分析"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "健康饮食基础",
+          "description": "了解均衡饮食的原则",
+          "content": [
+            {
+              "subtitle": "什么是均衡饮食？",
+              "text": "均衡饮食意味着摄入能提供适量必需营养素的食物。这包括蛋白质、碳水化合物、脂肪、维生素和矿物质。"
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "减重饮食计划",
+        "description": "每天1500卡路里",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "健康早餐",
+                    "description": "水果燕麦片",
+                    "ingredients": [
+                      {
+                        "name": "燕麦片",
+                        "amount": "50",
+                        "unit": "克"
+                      },
+                      {
+                        "name": "香蕉",
+                        "amount": "1",
+                        "unit": "个"
+                      },
+                      {
+                        "name": "1%牛奶",
+                        "amount": "200",
+                        "unit": "毫升"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

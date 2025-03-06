@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Înapoi",
+    "save": "Salvează",
+    "cancel": "Anulează",
+    "delete": "Șterge",
+    "edit": "Editează",
+    "loading": "Se încarcă...",
+    "search": "Caută",
+    "confirm": "Confirmă",
+    "apply": "Aplică"
+  },
+  "navigation": {
+    "home": "Acasă",
+    "profile": "Profil",
+    "settings": "Setări",
+    "nutrition": "Nutriție",
+    "workouts": "Antrenamente",
+    "progress": "Progres",
+    "analytics": "Analiză",
+    "articles": "Articole"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Nivel {{level}}",
+    "description": "Urmărește-ți călătoria fitness",
+    "achievements": "Realizări",
+    "statistics": "Statistici",
+    "goals": "Obiective"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Plan de mese",
+    "dailyCalories": "Calorii zilnice",
+    "waterIntake": "Consum de apă",
+    "macros": "Macronutrienți",
+    "foodDiary": "Jurnal alimentar",
+    "addMeal": "Adaugă masă"
+  },
+  "settings": {
+    "language": "Limbă",
+    "notifications": "Notificări",
+    "units": "Unități",
+    "privacy": "Confidențialitate",
+    "about": "Despre"
+  },
+  "subscription": {
+    "monthlyPlan": "Plan lunar",
+    "yearlyPlan": "Plan anual",
+    "currentPlan": "Plan curent",
+    "features": {
+      "personalAI": "Antrenor AI personal",
+      "unlimitedRecipes": "Rețete nelimitate",
+      "advancedAnalytics": "Analize avansate"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Bazele alimentației sănătoase",
+          "description": "Învață principiile unei diete echilibrate",
+          "content": [
+            {
+              "subtitle": "Ce este o dietă echilibrată?",
+              "text": "O dietă echilibrată înseamnă consumul de alimente care furnizează toate nutrientele necesare în proporții corecte. Aceasta include proteine, carbohidrați, grăsimi, vitamine și minerale."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Plan alimentar pentru scăderea în greutate",
+        "description": "1500 calorii pe zi",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Mic dejun sănătos",
+                    "description": "Terci de ovăz cu fructe",
+                    "ingredients": [
+                      {
+                        "name": "Fulgi de ovăz",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banană",
+                        "amount": "1",
+                        "unit": "buc"
+                      },
+                      {
+                        "name": "Lapte 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

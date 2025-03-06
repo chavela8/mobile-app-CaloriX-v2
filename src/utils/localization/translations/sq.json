@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "Kthehu",
+    "save": "Ruaj",
+    "cancel": "Anulo",
+    "delete": "Fshi",
+    "edit": "Ndrysho",
+    "loading": "Duke ngarkuar...",
+    "search": "Kërko",
+    "confirm": "Konfirmo",
+    "apply": "Apliko"
+  },
+  "navigation": {
+    "home": "Kryefaqja",
+    "profile": "Profili",
+    "settings": "Cilësimet",
+    "nutrition": "Ushqyerja",
+    "workouts": "Stërvitjet",
+    "progress": "Progresi",
+    "analytics": "Analitika",
+    "articles": "Artikujt"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Bazat e të ushqyerit të shëndetshëm",
+          "description": "Mësoni parimet e të ushqyerit të balancuar",
+          "content": [
+            {
+              "subtitle": "Çfarë është të ushqyerit e balancuar?",
+              "text": "Të ushqyerit e balancuar do të thotë të konsumosh ushqime që sigurojnë të gjitha lëndët ushqyese të nevojshme në proporcionet e duhura. Kjo përfshin proteina, karbohidrate, yndyrna, vitamina dhe minerale."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Plani i të ushqyerit për humbje peshe",
+        "description": "1500 kalori në ditë",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Mëngjes i shëndetshëm",
+                    "description": "Tërshërë me fruta",
+                    "ingredients": [
+                      {
+                        "name": "Tërshërë",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banane",
+                        "amount": "1",
+                        "unit": "copë"
+                      },
+                      {
+                        "name": "Qumësht 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

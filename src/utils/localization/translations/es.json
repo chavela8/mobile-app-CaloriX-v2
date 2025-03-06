@@ -1,0 +1,125 @@
+{
+  "common": {
+    "back": "Atrás",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "loading": "Cargando...",
+    "search": "Buscar",
+    "confirm": "Confirmar",
+    "apply": "Aplicar"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "profile": "Perfil",
+    "settings": "Ajustes",
+    "nutrition": "Nutrición",
+    "workouts": "Entrenamientos",
+    "progress": "Progreso",
+    "analytics": "Análisis",
+    "articles": "Artículos"
+  },
+  "profile": {
+    "title": "Perfil",
+    "level": "Nivel {{level}}",
+    "description": "Sigue tu viaje fitness",
+    "achievements": "Logros",
+    "statistics": "Estadísticas",
+    "goals": "Objetivos",
+    "measurements": "Medidas Corporales",
+    "personalBests": "Mejores Marcas",
+    "photos": "Fotos de Progreso"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Plan de Comidas",
+    "dailyCalories": "Calorías Diarias",
+    "waterIntake": "Consumo de Agua",
+    "macros": "Macronutrientes",
+    "foodDiary": "Diario de Alimentos",
+    "addMeal": "Añadir Comida"
+  },
+  "settings": {
+    "language": "Idioma",
+    "notifications": "Notificaciones",
+    "units": "Unidades",
+    "privacy": "Privacidad",
+    "about": "Acerca de"
+  },
+  "subscription": {
+    "monthlyPlan": "Plan Mensual",
+    "yearlyPlan": "Plan Anual",
+    "currentPlan": "Plan Actual",
+    "features": {
+      "personalAI": "Entrenador IA Personal",
+      "unlimitedRecipes": "Recetas Ilimitadas",
+      "advancedAnalytics": "Análisis Avanzado"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Fundamentos de la Nutrición Saludable",
+          "description": "Aprende los principios de una alimentación equilibrada",
+          "content": [
+            {
+              "subtitle": "¿Qué es una alimentación equilibrada?",
+              "text": "Una alimentación equilibrada consiste en consumir alimentos que proporcionen todos los nutrientes necesarios en las proporciones correctas. Esto incluye proteínas, carbohidratos, grasas, vitaminas y minerales."
+            },
+            {
+              "subtitle": "¿Por qué es importante?",
+              "text": "Una nutrición adecuada ayuda a mantener un peso saludable, fortalece el sistema inmunológico, mejora el rendimiento y afecta al bienestar general."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Plan de Alimentación para Pérdida de Peso",
+        "description": "1500 calorías diarias",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Desayuno Saludable",
+                    "description": "Avena con frutas",
+                    "ingredients": [
+                      {
+                        "name": "Avena",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Plátano",
+                        "amount": "1",
+                        "unit": "unidad"
+                      },
+                      {
+                        "name": "Leche 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "instructions": "1. Vierta la avena en la leche\n2. Corte el plátano\n3. Mezcle todo",
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

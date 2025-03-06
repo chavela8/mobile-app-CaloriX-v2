@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "بازگشت",
+    "save": "ذخیره",
+    "cancel": "لغو",
+    "delete": "حذف",
+    "edit": "ویرایش",
+    "loading": "در حال بارگذاری...",
+    "search": "جستجو",
+    "confirm": "تایید",
+    "apply": "اعمال"
+  },
+  "navigation": {
+    "home": "خانه",
+    "profile": "پروفایل",
+    "settings": "تنظیمات",
+    "nutrition": "تغذیه",
+    "workouts": "تمرینات",
+    "progress": "پیشرفت",
+    "analytics": "تحلیل",
+    "articles": "مقالات"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "اصول تغذیه سالم",
+          "description": "اصول رژیم غذایی متعادل را بیاموزید",
+          "content": [
+            {
+              "subtitle": "رژیم غذایی متعادل چیست؟",
+              "text": "رژیم غذایی متعادل به معنای مصرف غذاهایی است که تمام مواد مغذی ضروری را در نسبت‌های مناسب تأمین می‌کنند. این شامل پروتئین‌ها، کربوهیدرات‌ها، چربی‌ها، ویتامین‌ها و مواد معدنی می‌شود."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "برنامه غذایی برای کاهش وزن",
+        "description": "1500 کالری در روز",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "صبحانه سالم",
+                    "description": "جو دوسر با میوه",
+                    "ingredients": [
+                      {
+                        "name": "جو دوسر",
+                        "amount": "50",
+                        "unit": "گرم"
+                      },
+                      {
+                        "name": "موز",
+                        "amount": "1",
+                        "unit": "عدد"
+                      },
+                      {
+                        "name": "شیر 1%",
+                        "amount": "200",
+                        "unit": "میلی‌لیتر"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

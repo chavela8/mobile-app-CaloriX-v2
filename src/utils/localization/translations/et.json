@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Tagasi",
+    "save": "Salvesta",
+    "cancel": "Tühista",
+    "delete": "Kustuta",
+    "edit": "Muuda",
+    "loading": "Laadimine...",
+    "search": "Otsi",
+    "confirm": "Kinnita",
+    "apply": "Rakenda"
+  },
+  "navigation": {
+    "home": "Avaleht",
+    "profile": "Profiil",
+    "settings": "Seaded",
+    "nutrition": "Toitumine",
+    "workouts": "Treeningud",
+    "progress": "Progress",
+    "analytics": "Analüütika",
+    "articles": "Artiklid"
+  },
+  "profile": {
+    "title": "Profiil",
+    "level": "Tase {{level}}",
+    "description": "Jälgi oma fitnessi teekonda",
+    "achievements": "Saavutused",
+    "statistics": "Statistika",
+    "goals": "Eesmärgid"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Toitumiskava",
+    "dailyCalories": "Päevased kalorid",
+    "waterIntake": "Vee tarbimine",
+    "macros": "Makrotoitained",
+    "foodDiary": "Toidupäevik",
+    "addMeal": "Lisa toidukord"
+  },
+  "settings": {
+    "language": "Keel",
+    "notifications": "Teavitused",
+    "units": "Ühikud",
+    "privacy": "Privaatsus",
+    "about": "Info"
+  },
+  "subscription": {
+    "monthlyPlan": "Kuuplaan",
+    "yearlyPlan": "Aastaplaan",
+    "currentPlan": "Praegune plaan",
+    "features": {
+      "personalAI": "Isiklik AI treener",
+      "unlimitedRecipes": "Piiramatud retseptid",
+      "advancedAnalytics": "Põhjalik analüütika"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Tervisliku toitumise alused",
+          "description": "Õpi tundma tasakaalustatud toitumise põhimõtteid",
+          "content": [
+            {
+              "subtitle": "Mis on tasakaalustatud toitumine?",
+              "text": "Tasakaalustatud toitumine tähendab toidu tarbimist, mis annab kõiki vajalikke toitaineid õiges vahekorras. See hõlmab valke, süsivesikuid, rasvu, vitamiine ja mineraalaineid."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Toitumiskava kaalukaotuseks",
+        "description": "1500 kalorit päevas",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Tervislik hommikusöök",
+                    "description": "Puuviljadega kaerapuder",
+                    "ingredients": [
+                      {
+                        "name": "Kaerahelbed",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banaan",
+                        "amount": "1",
+                        "unit": "tk"
+                      },
+                      {
+                        "name": "Piim 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

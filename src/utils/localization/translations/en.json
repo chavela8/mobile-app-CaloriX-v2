@@ -1,0 +1,140 @@
+{
+  "common": {
+    "back": "Back",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "search": "Search",
+    "confirm": "Confirm",
+    "apply": "Apply"
+  },
+  "navigation": {
+    "home": "Home",
+    "profile": "Profile",
+    "settings": "Settings",
+    "nutrition": "Nutrition",
+    "workouts": "Workouts",
+    "progress": "Progress",
+    "analytics": "Analytics",
+    "articles": "Articles"
+  },
+  "profile": {
+    "title": "Profile",
+    "level": "Level {{level}}",
+    "description": "Track your fitness journey",
+    "achievements": "Achievements",
+    "statistics": "Statistics",
+    "goals": "Goals",
+    "measurements": "Body Measurements",
+    "personalBests": "Personal Bests",
+    "photos": "Progress Photos"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Meal Plan",
+    "dailyCalories": "Daily Calories",
+    "waterIntake": "Water Intake",
+    "macros": "Macronutrients",
+    "foodDiary": "Food Diary",
+    "addMeal": "Add Meal",
+    "nutritionGoals": "Nutrition Goals",
+    "mealHistory": "Meal History",
+    "recipes": {
+      "title": "Recipes",
+      "favorites": "Favorites",
+      "recommended": "Recommended",
+      "createNew": "Create Recipe"
+    },
+    "tracking": {
+      "breakfast": "Breakfast",
+      "lunch": "Lunch",
+      "dinner": "Dinner",
+      "snacks": "Snacks"
+    }
+  },
+  "workouts": {
+    "title": "Workouts",
+    "programs": "Programs",
+    "exercises": "Exercises",
+    "schedule": "Schedule",
+    "history": "History",
+    "customWorkout": "Custom Workout",
+    "difficulty": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "categories": {
+      "strength": "Strength",
+      "cardio": "Cardio",
+      "flexibility": "Flexibility",
+      "hiit": "HIIT",
+      "yoga": "Yoga"
+    },
+    "tracking": {
+      "sets": "Sets",
+      "reps": "Reps",
+      "weight": "Weight",
+      "duration": "Duration",
+      "rest": "Rest"
+    }
+  },
+  "analytics": {
+    "title": "Analytics",
+    "caloriesBurned": "Calories Burned",
+    "workoutsDone": "Workouts Completed",
+    "progressCharts": "Progress Charts",
+    "bodyMetrics": "Body Metrics",
+    "weightTracking": "Weight Tracking",
+    "statistics": {
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "yearly": "Yearly"
+    }
+  },
+  "articles": {
+    "title": "Articles",
+    "nutrition": "About Nutrition",
+    "workout": "About Workouts",
+    "health": "About Health",
+    "motivation": "Motivation",
+    "categories": {
+      "beginners": "For Beginners",
+      "intermediate": "Intermediate Level",
+      "advanced": "Advanced Level"
+    }
+  },
+  "recommendations": {
+    "title": "Recommendations",
+    "daily": "Daily Tips",
+    "workout": "Workout Tips",
+    "nutrition": "Nutrition Tips",
+    "recovery": "Recovery Tips",
+    "personalizedTips": "Personalized Tips"
+  },
+  "settings": {
+    "language": "Language",
+    "notifications": "Notifications",
+    "units": "Units",
+    "privacy": "Privacy",
+    "about": "About",
+    "theme": "Theme",
+    "dataExport": "Export Data",
+    "support": "Support"
+  },
+  "subscription": {
+    "monthlyPlan": "Monthly Plan",
+    "yearlyPlan": "Yearly Plan",
+    "currentPlan": "Current Plan",
+    "features": {
+      "personalAI": "Personal AI Trainer",
+      "unlimitedRecipes": "Unlimited Recipes",
+      "advancedAnalytics": "Advanced Analytics",
+      "mealPlanner": "Meal Planner",
+      "customWorkouts": "Custom Workouts",
+      "progressTracking": "Progress Tracking"
+    }
+  }
+} 

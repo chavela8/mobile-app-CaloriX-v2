@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Wstecz",
+    "save": "Zapisz",
+    "cancel": "Anuluj",
+    "delete": "Usuń",
+    "edit": "Edytuj",
+    "loading": "Ładowanie...",
+    "search": "Szukaj",
+    "confirm": "Potwierdź",
+    "apply": "Zastosuj"
+  },
+  "navigation": {
+    "home": "Strona główna",
+    "profile": "Profil",
+    "settings": "Ustawienia",
+    "nutrition": "Odżywianie",
+    "workouts": "Treningi",
+    "progress": "Postęp",
+    "analytics": "Analityka",
+    "articles": "Artykuły"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Poziom {{level}}",
+    "description": "Śledź swoją drogę fitness",
+    "achievements": "Osiągnięcia",
+    "statistics": "Statystyki",
+    "goals": "Cele"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Plan posiłków",
+    "dailyCalories": "Dzienne kalorie",
+    "waterIntake": "Spożycie wody",
+    "macros": "Makroskładniki",
+    "foodDiary": "Dziennik żywieniowy",
+    "addMeal": "Dodaj posiłek"
+  },
+  "settings": {
+    "language": "Język",
+    "notifications": "Powiadomienia",
+    "units": "Jednostki",
+    "privacy": "Prywatność",
+    "about": "O aplikacji"
+  },
+  "subscription": {
+    "monthlyPlan": "Plan miesięczny",
+    "yearlyPlan": "Plan roczny",
+    "currentPlan": "Obecny plan",
+    "features": {
+      "personalAI": "Osobisty trener AI",
+      "unlimitedRecipes": "Nieograniczone przepisy",
+      "advancedAnalytics": "Zaawansowana analityka"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Podstawy zdrowego odżywiania",
+          "description": "Poznaj zasady zrównoważonej diety",
+          "content": [
+            {
+              "subtitle": "Co to jest zrównoważona dieta?",
+              "text": "Zrównoważona dieta oznacza spożywanie pokarmów, które dostarczają wszystkich niezbędnych składników odżywczych we właściwych proporcjach. Obejmuje to białka, węglowodany, tłuszcze, witaminy i minerały."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Plan żywieniowy na redukcję wagi",
+        "description": "1500 kalorii dziennie",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Zdrowe śniadanie",
+                    "description": "Owsianka z owocami",
+                    "ingredients": [
+                      {
+                        "name": "Płatki owsiane",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banan",
+                        "amount": "1",
+                        "unit": "szt"
+                      },
+                      {
+                        "name": "Mleko 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

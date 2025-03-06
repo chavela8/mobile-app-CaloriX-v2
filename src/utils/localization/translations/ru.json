@@ -1,0 +1,250 @@
+{
+  "common": {
+    "back": "Назад",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "loading": "Загрузка...",
+    "search": "Поиск",
+    "confirm": "Подтвердить",
+    "apply": "Применить"
+  },
+  "navigation": {
+    "home": "Главная",
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "nutrition": "Питание",
+    "workouts": "Тренировки",
+    "progress": "Прогресс",
+    "analytics": "Аналитика",
+    "articles": "Статьи"
+  },
+  "profile": {
+    "title": "Профиль",
+    "level": "Уровень {{level}}",
+    "description": "Отслеживайте свой фитнес-путь",
+    "achievements": "Достижения",
+    "statistics": "Статистика",
+    "goals": "Цели",
+    "measurements": "Замеры тела",
+    "personalBests": "Личные рекорды",
+    "photos": "Фото прогресса"
+  },
+  "nutrition": {
+    "mealPlanTitle": "План питания",
+    "dailyCalories": "Калории за день",
+    "waterIntake": "Потребление воды",
+    "macros": "Макронутриенты",
+    "foodDiary": "Дневник питания",
+    "addMeal": "Добавить приём пищи",
+    "nutritionGoals": "Цели по питанию",
+    "mealHistory": "История питания",
+    "recipes": {
+      "title": "Рецепты",
+      "favorites": "Избранные",
+      "recommended": "Рекомендуемые",
+      "createNew": "Создать рецепт"
+    },
+    "tracking": {
+      "breakfast": "Завтрак",
+      "lunch": "Обед",
+      "dinner": "Ужин",
+      "snacks": "Перекусы"
+    }
+  },
+  "workouts": {
+    "title": "Тренировки",
+    "programs": "Программы",
+    "exercises": "Упражнения",
+    "schedule": "Расписание",
+    "history": "История",
+    "customWorkout": "Своя тренировка",
+    "difficulty": {
+      "beginner": "Начинающий",
+      "intermediate": "Средний",
+      "advanced": "Продвинутый"
+    },
+    "categories": {
+      "strength": "Силовые",
+      "cardio": "Кардио",
+      "flexibility": "Гибкость",
+      "hiit": "ВИИТ",
+      "yoga": "Йога"
+    },
+    "tracking": {
+      "sets": "Подходы",
+      "reps": "Повторения",
+      "weight": "Вес",
+      "duration": "Длительность",
+      "rest": "Отдых"
+    }
+  },
+  "analytics": {
+    "title": "Аналитика",
+    "caloriesBurned": "Сожжено калорий",
+    "workoutsDone": "Выполнено тренировок",
+    "progressCharts": "Графики прогресса",
+    "bodyMetrics": "Параметры тела",
+    "weightTracking": "Отслеживание веса",
+    "statistics": {
+      "daily": "День",
+      "weekly": "Неделя",
+      "monthly": "Месяц",
+      "yearly": "Год"
+    }
+  },
+  "articles": {
+    "title": "Статьи",
+    "nutrition": "О питании",
+    "workout": "О тренировках",
+    "health": "О здоровье",
+    "motivation": "Мотивация",
+    "categories": {
+      "beginners": "Для начинающих",
+      "intermediate": "Средний уровень",
+      "advanced": "Продвинутый уровень"
+    }
+  },
+  "recommendations": {
+    "title": "Рекомендации",
+    "daily": "Ежедневные советы",
+    "workout": "По тренировкам",
+    "nutrition": "По питанию",
+    "recovery": "По восстановлению",
+    "personalizedTips": "Персональные советы"
+  },
+  "settings": {
+    "language": "Язык",
+    "notifications": "Уведомления",
+    "units": "Единицы измерения",
+    "privacy": "Конфиденциальность",
+    "about": "О приложении",
+    "theme": "Тема оформления",
+    "dataExport": "Экспорт данных",
+    "support": "Поддержка"
+  },
+  "subscription": {
+    "monthlyPlan": "Месячный план",
+    "yearlyPlan": "Годовой план",
+    "currentPlan": "Текущий план",
+    "features": {
+      "personalAI": "Персональный ИИ-тренер",
+      "unlimitedRecipes": "Безлимитные рецепты",
+      "advancedAnalytics": "Расширенная аналитика",
+      "mealPlanner": "Планировщик питания",
+      "customWorkouts": "Индивидуальные тренировки",
+      "progressTracking": "Отслеживание прогресса"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Основы здорового питания",
+          "description": "Изучите принципы сбалансированного питания",
+          "content": [
+            {
+              "subtitle": "Что такое сбалансированное питание?",
+              "text": "Сбалансированное питание означает потребление пищи, которая обеспечивает все необходимые питательные вещества в правильных пропорциях. Это включает белки, углеводы, жиры, витамины и минералы."
+            }
+          ]
+        },
+        "article2": {
+          "title": "Макронутриенты в питании",
+          "description": "Подробный гид по белкам, жирам и углеводам"
+        }
+      },
+      "workout": {
+        "article1": {
+          "title": "Основы силовых тренировок",
+          "description": "Руководство для начинающих по силовым тренировкам",
+          "content": [
+            {
+              "subtitle": "С чего начать?",
+              "text": "Начните с изучения правильной техники базовых упражнений. Это приседания, становая тяга, жим лежа и тяга в наклоне."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "План питания для снижения веса",
+        "description": "1500 калорий в день",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Здоровый завтрак",
+                    "description": "Овсянка с фруктами",
+                    "ingredients": [
+                      {
+                        "name": "Овсяные хлопья",
+                        "amount": "50",
+                        "unit": "г"
+                      },
+                      {
+                        "name": "Банан",
+                        "amount": "1",
+                        "unit": "шт"
+                      },
+                      {
+                        "name": "Молоко 1%",
+                        "amount": "200",
+                        "unit": "мл"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  },
+                  "lunch": {
+                    "title": "Легкий обед",
+                    "description": "Куриная грудка с овощами"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "muscleGain": {
+        "title": "План питания для набора мышечной массы",
+        "description": "3000 ккал в день"
+      }
+    },
+    "workoutPlans": {
+      "beginnerStrength": {
+        "title": "Силовые тренировки для начинающих",
+        "description": "8-недельная программа",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "exercises": [
+                  {
+                    "name": "Приседания с собственным весом",
+                    "sets": 3,
+                    "reps": "12-15",
+                    "restTime": "60 сек",
+                    "technique": "1. Встаньте прямо, ноги на ширине плеч\n2. Опуститесь, сгибая колени..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

@@ -1,0 +1,51 @@
+{
+  "common": {
+    "back": "Orqaga",
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "delete": "O'chirish",
+    "edit": "Tahrirlash",
+    "loading": "Yuklanmoqda..."
+  },
+  "navigation": {
+    "home": "Bosh sahifa",
+    "profile": "Profil",
+    "settings": "Sozlamalar",
+    "nutrition": "Ovqatlanish",
+    "workouts": "Mashqlar",
+    "progress": "Progress"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Daraja {{level}}",
+    "description": "Fitnes yo'lingizni kuzating",
+    "achievements": "Yutuqlar",
+    "statistics": "Statistika",
+    "goals": "Maqsadlar"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Ovqatlanish rejasi",
+    "dailyCalories": "Kunlik kaloriyalar",
+    "waterIntake": "Suv iste'moli",
+    "macros": "Makronutrientlar",
+    "foodDiary": "Ovqat kundaligi",
+    "addMeal": "Ovqat qo'shish"
+  },
+  "settings": {
+    "language": "Til",
+    "notifications": "Bildirishnomalar",
+    "units": "O'lchov birliklari",
+    "privacy": "Maxfiylik",
+    "about": "Haqida"
+  },
+  "subscription": {
+    "monthlyPlan": "Oylik reja",
+    "yearlyPlan": "Yillik reja",
+    "currentPlan": "Joriy reja",
+    "features": {
+      "personalAI": "Shaxsiy AI murabbiy",
+      "unlimitedRecipes": "Cheksiz retseptlar",
+      "advancedAnalytics": "Kengaytirilgan tahlil"
+    }
+  }
+} 

@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "ย้อนกลับ",
+    "save": "บันทึก",
+    "cancel": "ยกเลิก",
+    "delete": "ลบ",
+    "edit": "แก้ไข",
+    "loading": "กำลังโหลด...",
+    "search": "ค้นหา",
+    "confirm": "ยืนยัน",
+    "apply": "นำไปใช้"
+  },
+  "navigation": {
+    "home": "หน้าแรก",
+    "profile": "โปรไฟล์",
+    "settings": "ตั้งค่า",
+    "nutrition": "โภชนาการ",
+    "workouts": "การออกกำลังกาย",
+    "progress": "ความคืบหน้า",
+    "analytics": "การวิเคราะห์",
+    "articles": "บทความ"
+  },
+  "profile": {
+    "title": "โปรไฟล์",
+    "level": "ระดับ {{level}}",
+    "description": "ติดตามการเดินทางสู่สุขภาพที่ดี",
+    "achievements": "ความสำเร็จ",
+    "statistics": "สถิติ",
+    "goals": "เป้าหมาย"
+  },
+  "nutrition": {
+    "mealPlanTitle": "แผนมื้ออาหาร",
+    "dailyCalories": "แคลอรี่ต่อวัน",
+    "waterIntake": "การดื่มน้ำ",
+    "macros": "สารอาหารหลัก",
+    "foodDiary": "บันทึกอาหาร",
+    "addMeal": "เพิ่มมื้ออาหาร"
+  },
+  "settings": {
+    "language": "ภาษา",
+    "notifications": "การแจ้งเตือน",
+    "units": "หน่วย",
+    "privacy": "ความเป็นส่วนตัว",
+    "about": "เกี่ยวกับ"
+  },
+  "subscription": {
+    "monthlyPlan": "แผนรายเดือน",
+    "yearlyPlan": "แผนรายปี",
+    "currentPlan": "แผนปัจจุบัน",
+    "features": {
+      "personalAI": "ผู้ฝึกสอน AI ส่วนตัว",
+      "unlimitedRecipes": "สูตรอาหารไม่จำกัด",
+      "advancedAnalytics": "การวิเคราะห์ขั้นสูง"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "หลักการของอาหารเพื่อสุขภาพ",
+          "description": "เรียนรู้หลักการของอาหารที่สมดุล",
+          "content": [
+            {
+              "subtitle": "อาหารที่สมดุลคืออะไร?",
+              "text": "อาหารที่สมดุล หมายถึง การรับประทานอาหารที่ให้สารอาหารที่จำเป็นทั้งหมดในสัดส่วนที่เหมาะสม ซึ่งประกอบด้วยโปรตีน คาร์โบไฮเดรต ไขมัน วิตามิน และแร่ธาตุ"
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "แผนอาหารเพื่อลดน้ำหนัก",
+        "description": "1500 แคลอรี่ต่อวัน",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "อาหารเช้าเพื่อสุขภาพ",
+                    "description": "ข้าวโอ๊ตกับผลไม้",
+                    "ingredients": [
+                      {
+                        "name": "ข้าวโอ๊ต",
+                        "amount": "50",
+                        "unit": "กรัม"
+                      },
+                      {
+                        "name": "กล้วย",
+                        "amount": "1",
+                        "unit": "ผล"
+                      },
+                      {
+                        "name": "นม 1%",
+                        "amount": "200",
+                        "unit": "มล."
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

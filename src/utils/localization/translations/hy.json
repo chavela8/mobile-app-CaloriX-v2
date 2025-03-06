@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Հետ",
+    "save": "Պահպանել",
+    "cancel": "Չեղարկել",
+    "delete": "Ջնջել",
+    "edit": "Խմբագրել",
+    "loading": "Բեռնվում է...",
+    "search": "Որոնել",
+    "confirm": "Հաստատել",
+    "apply": "Կիրառել"
+  },
+  "navigation": {
+    "home": "Գլխավոր",
+    "profile": "Պրոֆիլ",
+    "settings": "Կարգավորումներ",
+    "nutrition": "Սնուցում",
+    "workouts": "Մարզումներ",
+    "progress": "Առաջընթաց",
+    "analytics": "Վերլուծություն",
+    "articles": "Հոդվածներ"
+  },
+  "profile": {
+    "title": "Պրոֆիլ",
+    "level": "Մակարդակ {{level}}",
+    "description": "Հետևեք ձեր ֆիթնես ճանապարհին",
+    "achievements": "Ձեռքբերումներ",
+    "statistics": "Վիճակագրություն",
+    "goals": "Նպատակներ"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Սննդի պլան",
+    "dailyCalories": "Օրական կալորիաներ",
+    "waterIntake": "Ջրի ընդունում",
+    "macros": "Մակրոնուտրիենտներ",
+    "foodDiary": "Սննդի օրագիր",
+    "addMeal": "Ավելացնել ուտելիք"
+  },
+  "settings": {
+    "language": "Լեզու",
+    "notifications": "Ծանուցումներ",
+    "units": "Միավորներ",
+    "privacy": "Գաղտնիություն",
+    "about": "Մեր մասին"
+  },
+  "subscription": {
+    "monthlyPlan": "Ամսական պլան",
+    "yearlyPlan": "Տարեկան պլան",
+    "currentPlan": "Ընթացիկ պլան",
+    "features": {
+      "personalAI": "Անձնական AI մարզիչ",
+      "unlimitedRecipes": "Անսահմանափակ բաղադրատոմսեր",
+      "advancedAnalytics": "Առաջադեմ վերլուծություն"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Առողջ սննդի հիմունքները",
+          "description": "Սովորեք հավասարակշռված սննդի սկզբունքները",
+          "content": [
+            {
+              "subtitle": "Ի՞նչ է հավասարակշռված սնունդը",
+              "text": "Հավասարակշռված սնունդը բոլոր անհրաժեշտ սննդանյութերը ճիշտ համամասնությամբ պարունակող սննդի ընդունումն է: Այն ներառում է սպիտակուցներ, ածխաջրեր, ճարպեր, վիտամիններ և հանքանյութեր:"
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Քաշի կորստի սննդի ծրագիր",
+        "description": "1500 կալորիա օրական",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Առողջ նախաճաշ",
+                    "description": "Վարսակ մրգերով",
+                    "ingredients": [
+                      {
+                        "name": "Վարսակ",
+                        "amount": "50",
+                        "unit": "գ"
+                      },
+                      {
+                        "name": "Բանան",
+                        "amount": "1",
+                        "unit": "հատ"
+                      },
+                      {
+                        "name": "Կաթ 1%",
+                        "amount": "200",
+                        "unit": "մլ"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

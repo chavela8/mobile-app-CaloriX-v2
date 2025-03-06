@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "Kembali",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "delete": "Hapus",
+    "edit": "Edit",
+    "loading": "Memuat...",
+    "search": "Cari",
+    "confirm": "Konfirmasi",
+    "apply": "Terapkan"
+  },
+  "navigation": {
+    "home": "Beranda",
+    "profile": "Profil",
+    "settings": "Pengaturan",
+    "nutrition": "Nutrisi",
+    "workouts": "Latihan",
+    "progress": "Kemajuan",
+    "analytics": "Analisis",
+    "articles": "Artikel"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Dasar-dasar Makanan Sehat",
+          "description": "Pelajari prinsip-prinsip makanan seimbang",
+          "content": [
+            {
+              "subtitle": "Apa itu makanan seimbang?",
+              "text": "Makanan seimbang berarti mengonsumsi makanan yang memberikan semua nutrisi penting dalam proporsi yang tepat. Ini termasuk protein, karbohidrat, lemak, vitamin, dan mineral."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Rencana Makan untuk Menurunkan Berat Badan",
+        "description": "1500 kalori per hari",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Sarapan Sehat",
+                    "description": "Oatmeal dengan buah",
+                    "ingredients": [
+                      {
+                        "name": "Oatmeal",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Pisang",
+                        "amount": "1",
+                        "unit": "buah"
+                      },
+                      {
+                        "name": "Susu 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

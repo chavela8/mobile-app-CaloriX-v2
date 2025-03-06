@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "Bumalik",
+    "save": "I-save",
+    "cancel": "Kanselahin",
+    "delete": "Burahin",
+    "edit": "I-edit",
+    "loading": "Naglo-load...",
+    "search": "Maghanap",
+    "confirm": "Kumpirmahin",
+    "apply": "Ilapat"
+  },
+  "navigation": {
+    "home": "Home",
+    "profile": "Profile",
+    "settings": "Mga Setting",
+    "nutrition": "Nutrisyon",
+    "workouts": "Mga Ehersisyo",
+    "progress": "Progreso",
+    "analytics": "Analytics",
+    "articles": "Mga Artikulo"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Mga Pangunahing Kaalaman sa Malusog na Pagkain",
+          "description": "Alamin ang mga prinsipyo ng balanseng pagkain",
+          "content": [
+            {
+              "subtitle": "Ano ang balanseng pagkain?",
+              "text": "Ang balanseng pagkain ay nangangahulugang kumain ng mga pagkaing nagbibigay ng lahat ng mahahalagang sustansya sa tamang proporsyon. Kabilang dito ang mga protina, carbohydrates, taba, bitamina, at mineral."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Meal Plan para sa Pagbabawas ng Timbang",
+        "description": "1500 calories bawat araw",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Malusog na Almusal",
+                    "description": "Oatmeal na may prutas",
+                    "ingredients": [
+                      {
+                        "name": "Oats",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Saging",
+                        "amount": "1",
+                        "unit": "piraso"
+                      },
+                      {
+                        "name": "Gatas 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

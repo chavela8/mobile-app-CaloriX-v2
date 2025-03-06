@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "मागे",
+    "save": "जतन करा",
+    "cancel": "रद्द करा",
+    "delete": "हटवा",
+    "edit": "संपादित करा",
+    "loading": "लोड होत आहे...",
+    "search": "शोधा",
+    "confirm": "पुष्टी करा",
+    "apply": "लागू करा"
+  },
+  "navigation": {
+    "home": "मुख्यपृष्ठ",
+    "profile": "प्रोफाइल",
+    "settings": "सेटिंग्ज",
+    "nutrition": "पोषण",
+    "workouts": "व्यायाम",
+    "progress": "प्रगती",
+    "analytics": "विश्लेषण",
+    "articles": "लेख"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "निरोगी आहाराची मूलतत्त्वे",
+          "description": "संतुलित आहाराची तत्त्वे जाणून घ्या",
+          "content": [
+            {
+              "subtitle": "संतुलित आहार म्हणजे काय?",
+              "text": "संतुलित आहार म्हणजे सर्व आवश्यक पोषक तत्त्वे योग्य प्रमाणात पुरवणारे अन्न खाणे. यामध्ये प्रथिने, कर्बोदके, स्निग्ध पदार्थ, जीवनसत्त्वे आणि खनिजे समाविष्ट आहेत."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "वजन कमी करण्यासाठी आहार योजना",
+        "description": "1500 कॅलरी दररोज",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "निरोगी नाश्ता",
+                    "description": "फळांसह ओट्स खीर",
+                    "ingredients": [
+                      {
+                        "name": "ओट्स",
+                        "amount": "50",
+                        "unit": "ग्रॅम"
+                      },
+                      {
+                        "name": "केळं",
+                        "amount": "1",
+                        "unit": "नग"
+                      },
+                      {
+                        "name": "दूध 1%",
+                        "amount": "200",
+                        "unit": "मि.ली"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

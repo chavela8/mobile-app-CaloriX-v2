@@ -1,0 +1,51 @@
+{
+  "common": {
+    "back": "Артка",
+    "save": "Сактоо",
+    "cancel": "Жокко чыгаруу",
+    "delete": "Өчүрүү",
+    "edit": "Түзөтүү",
+    "loading": "Жүктөлүүдө..."
+  },
+  "navigation": {
+    "home": "Башкы бет",
+    "profile": "Профиль",
+    "settings": "Орнотуулар",
+    "nutrition": "Тамактануу",
+    "workouts": "Машыгуулар",
+    "progress": "Прогресс"
+  },
+  "profile": {
+    "title": "Профиль",
+    "level": "Деңгээл {{level}}",
+    "description": "Фитнес жолуңузду көзөмөлдөңүз",
+    "achievements": "Жетишкендиктер",
+    "statistics": "Статистика",
+    "goals": "Максаттар"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Тамактануу планы",
+    "dailyCalories": "Күнүмдүк калориялар",
+    "waterIntake": "Суу ичүү",
+    "macros": "Макроэлементтер",
+    "foodDiary": "Тамак күндөлүгү",
+    "addMeal": "Тамак кошуу"
+  },
+  "settings": {
+    "language": "Тил",
+    "notifications": "Билдирүүлөр",
+    "units": "Өлчөө бирдиктери",
+    "privacy": "Купуялуулук",
+    "about": "Жөнүндө"
+  },
+  "subscription": {
+    "monthlyPlan": "Айлык план",
+    "yearlyPlan": "Жылдык план",
+    "currentPlan": "Учурдагы план",
+    "features": {
+      "personalAI": "Жеке AI машыктыруучу",
+      "unlimitedRecipes": "Чексиз рецепттер",
+      "advancedAnalytics": "Өркүндөтүлгөн аналитика"
+    }
+  }
+} 

@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Terug",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "loading": "Laden...",
+    "search": "Zoeken",
+    "confirm": "Bevestigen",
+    "apply": "Toepassen"
+  },
+  "navigation": {
+    "home": "Home",
+    "profile": "Profiel",
+    "settings": "Instellingen",
+    "nutrition": "Voeding",
+    "workouts": "Trainingen",
+    "progress": "Voortgang",
+    "analytics": "Analyses",
+    "articles": "Artikelen"
+  },
+  "profile": {
+    "title": "Profiel",
+    "level": "Niveau {{level}}",
+    "description": "Volg je fitness reis",
+    "achievements": "Prestaties",
+    "statistics": "Statistieken",
+    "goals": "Doelen"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Maaltijdplan",
+    "dailyCalories": "Dagelijkse Calorieën",
+    "waterIntake": "Waterinname",
+    "macros": "Macronutriënten",
+    "foodDiary": "Voedingsdagboek",
+    "addMeal": "Maaltijd Toevoegen"
+  },
+  "settings": {
+    "language": "Taal",
+    "notifications": "Meldingen",
+    "units": "Eenheden",
+    "privacy": "Privacy",
+    "about": "Over"
+  },
+  "subscription": {
+    "monthlyPlan": "Maandelijks Plan",
+    "yearlyPlan": "Jaarlijks Plan",
+    "currentPlan": "Huidig Plan",
+    "features": {
+      "personalAI": "Persoonlijke AI Trainer",
+      "unlimitedRecipes": "Onbeperkte Recepten",
+      "advancedAnalytics": "Geavanceerde Analyses"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Basisprincipes van Gezonde Voeding",
+          "description": "Leer de principes van evenwichtige voeding",
+          "content": [
+            {
+              "subtitle": "Wat is evenwichtige voeding?",
+              "text": "Evenwichtige voeding bestaat uit het consumeren van voedsel dat alle noodzakelijke voedingsstoffen in de juiste verhoudingen levert. Dit omvat eiwitten, koolhydraten, vetten, vitaminen en mineralen."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Voedingsplan voor Gewichtsverlies",
+        "description": "1500 calorieën per dag",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Gezond Ontbijt",
+                    "description": "Havermout met fruit",
+                    "ingredients": [
+                      {
+                        "name": "Havermout",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banaan",
+                        "amount": "1",
+                        "unit": "stuk"
+                      },
+                      {
+                        "name": "Melk 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

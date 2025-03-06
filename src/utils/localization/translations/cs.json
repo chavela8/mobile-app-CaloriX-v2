@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Zpět",
+    "save": "Uložit",
+    "cancel": "Zrušit",
+    "delete": "Smazat",
+    "edit": "Upravit",
+    "loading": "Načítání...",
+    "search": "Hledat",
+    "confirm": "Potvrdit",
+    "apply": "Použít"
+  },
+  "navigation": {
+    "home": "Domů",
+    "profile": "Profil",
+    "settings": "Nastavení",
+    "nutrition": "Výživa",
+    "workouts": "Cvičení",
+    "progress": "Pokrok",
+    "analytics": "Analýza",
+    "articles": "Články"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Úroveň {{level}}",
+    "description": "Sledujte svou fitness cestu",
+    "achievements": "Úspěchy",
+    "statistics": "Statistiky",
+    "goals": "Cíle"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Jídelní plán",
+    "dailyCalories": "Denní kalorie",
+    "waterIntake": "Příjem vody",
+    "macros": "Makroživiny",
+    "foodDiary": "Jídelní deník",
+    "addMeal": "Přidat jídlo"
+  },
+  "settings": {
+    "language": "Jazyk",
+    "notifications": "Oznámení",
+    "units": "Jednotky",
+    "privacy": "Soukromí",
+    "about": "O aplikaci"
+  },
+  "subscription": {
+    "monthlyPlan": "Měsíční plán",
+    "yearlyPlan": "Roční plán",
+    "currentPlan": "Aktuální plán",
+    "features": {
+      "personalAI": "Osobní AI trenér",
+      "unlimitedRecipes": "Neomezené recepty",
+      "advancedAnalytics": "Pokročilá analytika"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Základy zdravého stravování",
+          "description": "Poznejte principy vyvážené stravy",
+          "content": [
+            {
+              "subtitle": "Co je vyvážená strava?",
+              "text": "Vyvážená strava znamená konzumaci potravin, které poskytují všechny potřebné živiny ve správných proporcích. To zahrnuje bílkoviny, sacharidy, tuky, vitamíny a minerály."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Jídelní plán pro snížení hmotnosti",
+        "description": "1500 kalorií denně",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Zdravá snídaně",
+                    "description": "Ovesná kaše s ovocem",
+                    "ingredients": [
+                      {
+                        "name": "Ovesné vločky",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banán",
+                        "amount": "1",
+                        "unit": "ks"
+                      },
+                      {
+                        "name": "Mléko 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

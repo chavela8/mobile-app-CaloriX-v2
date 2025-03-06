@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "返回",
+    "save": "儲存",
+    "cancel": "取消",
+    "delete": "刪除",
+    "edit": "編輯",
+    "loading": "載入中...",
+    "search": "搜尋",
+    "confirm": "確認",
+    "apply": "套用"
+  },
+  "navigation": {
+    "home": "首頁",
+    "profile": "個人資料",
+    "settings": "設定",
+    "nutrition": "營養",
+    "workouts": "運動",
+    "progress": "進度",
+    "analytics": "分析",
+    "articles": "文章"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "健康飲食基礎",
+          "description": "了解均衡飲食的原則",
+          "content": [
+            {
+              "subtitle": "什麼是均衡飲食？",
+              "text": "均衡飲食意味著攝入能提供適量必需營養素的食物。這包括蛋白質、碳水化合物、脂肪、維生素和礦物質。"
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "減重飲食計劃",
+        "description": "每天1500卡路里",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "健康早餐",
+                    "description": "水果燕麥片",
+                    "ingredients": [
+                      {
+                        "name": "燕麥片",
+                        "amount": "50",
+                        "unit": "克"
+                      },
+                      {
+                        "name": "香蕉",
+                        "amount": "1",
+                        "unit": "個"
+                      },
+                      {
+                        "name": "1%牛奶",
+                        "amount": "200",
+                        "unit": "毫升"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

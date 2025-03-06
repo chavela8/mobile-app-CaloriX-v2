@@ -1,0 +1,51 @@
+{
+  "common": {
+    "back": "Înapoi",
+    "save": "Salvează",
+    "cancel": "Anulează",
+    "delete": "Șterge",
+    "edit": "Modifică",
+    "loading": "Se încarcă..."
+  },
+  "navigation": {
+    "home": "Pagina principală",
+    "profile": "Profil",
+    "settings": "Setări",
+    "nutrition": "Nutriție",
+    "workouts": "Antrenamente",
+    "progress": "Progres"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Nivel {{level}}",
+    "description": "Urmărește-ți calea fitness",
+    "achievements": "Realizări",
+    "statistics": "Statistici",
+    "goals": "Obiective"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Plan de alimentație",
+    "dailyCalories": "Calorii zilnice",
+    "waterIntake": "Consum de apă",
+    "macros": "Macronutrienți",
+    "foodDiary": "Jurnal alimentar",
+    "addMeal": "Adaugă masă"
+  },
+  "settings": {
+    "language": "Limbă",
+    "notifications": "Notificări",
+    "units": "Unități",
+    "privacy": "Confidențialitate",
+    "about": "Despre"
+  },
+  "subscription": {
+    "monthlyPlan": "Plan lunar",
+    "yearlyPlan": "Plan anual",
+    "currentPlan": "Plan actual",
+    "features": {
+      "personalAI": "Antrenor AI personal",
+      "unlimitedRecipes": "Rețete nelimitate",
+      "advancedAnalytics": "Analize avansate"
+    }
+  }
+} 

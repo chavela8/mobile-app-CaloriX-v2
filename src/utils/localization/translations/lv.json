@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Atpakaļ",
+    "save": "Saglabāt",
+    "cancel": "Atcelt",
+    "delete": "Dzēst",
+    "edit": "Rediģēt",
+    "loading": "Ielādē...",
+    "search": "Meklēt",
+    "confirm": "Apstiprināt",
+    "apply": "Pielietot"
+  },
+  "navigation": {
+    "home": "Sākums",
+    "profile": "Profils",
+    "settings": "Iestatījumi",
+    "nutrition": "Uzturs",
+    "workouts": "Treniņi",
+    "progress": "Progress",
+    "analytics": "Analītika",
+    "articles": "Raksti"
+  },
+  "profile": {
+    "title": "Profils",
+    "level": "Līmenis {{level}}",
+    "description": "Sekojiet savam fitnesa ceļojumam",
+    "achievements": "Sasniegumi",
+    "statistics": "Statistika",
+    "goals": "Mērķi"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Ēdienreižu plāns",
+    "dailyCalories": "Dienas kalorijas",
+    "waterIntake": "Ūdens patēriņš",
+    "macros": "Makroelementi",
+    "foodDiary": "Uztura dienasgrāmata",
+    "addMeal": "Pievienot ēdienreizi"
+  },
+  "settings": {
+    "language": "Valoda",
+    "notifications": "Paziņojumi",
+    "units": "Mērvienības",
+    "privacy": "Privātums",
+    "about": "Par"
+  },
+  "subscription": {
+    "monthlyPlan": "Mēneša plāns",
+    "yearlyPlan": "Gada plāns",
+    "currentPlan": "Pašreizējais plāns",
+    "features": {
+      "personalAI": "Personīgais AI treneris",
+      "unlimitedRecipes": "Neierobežotas receptes",
+      "advancedAnalytics": "Padziļināta analītika"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Veselīga uztura pamati",
+          "description": "Uzziniet par sabalansēta uztura principiem",
+          "content": [
+            {
+              "subtitle": "Kas ir sabalansēts uzturs?",
+              "text": "Sabalansēts uzturs nozīmē uzņemt pārtiku, kas nodrošina visas nepieciešamās uzturvielas pareizās proporcijās. Tas ietver olbaltumvielas, ogļhidrātus, taukus, vitamīnus un minerālvielas."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Uztura plāns svara zaudēšanai",
+        "description": "1500 kalorijas dienā",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Veselīgas brokastis",
+                    "description": "Auzu pārslas ar augļiem",
+                    "ingredients": [
+                      {
+                        "name": "Auzu pārslas",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banāns",
+                        "amount": "1",
+                        "unit": "gab"
+                      },
+                      {
+                        "name": "Piens 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

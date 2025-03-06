@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "પાછળ",
+    "save": "સાચવો",
+    "cancel": "રદ કરો",
+    "delete": "કાઢી નાખો",
+    "edit": "સંપાદિત કરો",
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "search": "શોધો",
+    "confirm": "પુષ્ટિ કરો",
+    "apply": "લાગુ કરો"
+  },
+  "navigation": {
+    "home": "હોમ",
+    "profile": "પ્રોફાઇલ",
+    "settings": "સેટિંગ્સ",
+    "nutrition": "પોષણ",
+    "workouts": "કસરત",
+    "progress": "પ્રગતિ",
+    "analytics": "વિશ્લેષણ",
+    "articles": "લેખો"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "આરોગ્યપ્રદ આહારના મૂળભૂત સિદ્ધાંતો",
+          "description": "સંતુલિત આહારના સિદ્ધાંતો જાણો",
+          "content": [
+            {
+              "subtitle": "સંતુલિત આહાર શું છે?",
+              "text": "સંતુલિત આહાર એટલે એવો ખોરાક લેવો જે યોગ્ય પ્રમાણમાં બધા જરૂરી પોષક તત્વો પૂરા પાડે. આમાં પ્રોટીન, કાર્બોહાઇડ્રેટ્સ, ચરબી, વિટામિન્સ અને ખનિજો સામેલ છે."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "વજન ઘટાડવા માટેની આહાર યોજના",
+        "description": "1500 કેલરી પ્રતિદિન",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "આરોગ્યપ્રદ નાસ્તો",
+                    "description": "ફળો સાથે ઓટ્સ",
+                    "ingredients": [
+                      {
+                        "name": "ઓટ્સ",
+                        "amount": "50",
+                        "unit": "ગ્રામ"
+                      },
+                      {
+                        "name": "કેળું",
+                        "amount": "1",
+                        "unit": "નંગ"
+                      },
+                      {
+                        "name": "દૂધ 1%",
+                        "amount": "200",
+                        "unit": "મિ.લી"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "უკან",
+    "save": "შენახვა",
+    "cancel": "გაუქმება",
+    "delete": "წაშლა",
+    "edit": "რედაქტირება",
+    "loading": "იტვირთება...",
+    "search": "ძიება",
+    "confirm": "დადასტურება",
+    "apply": "გამოყენება"
+  },
+  "navigation": {
+    "home": "მთავარი",
+    "profile": "პროფილი",
+    "settings": "პარამეტრები",
+    "nutrition": "კვება",
+    "workouts": "ვარჯიშები",
+    "progress": "პროგრესი",
+    "analytics": "ანალიტიკა",
+    "articles": "სტატიები"
+  },
+  "profile": {
+    "title": "პროფილი",
+    "level": "დონე {{level}}",
+    "description": "თვალი ადევნეთ თქვენს ფიტნეს მოგზაურობას",
+    "achievements": "მიღწევები",
+    "statistics": "სტატისტიკა",
+    "goals": "მიზნები"
+  },
+  "nutrition": {
+    "mealPlanTitle": "კვების გეგმა",
+    "dailyCalories": "დღიური კალორიები",
+    "waterIntake": "წყლის მიღება",
+    "macros": "მაკრონუტრიენტები",
+    "foodDiary": "საკვების დღიური",
+    "addMeal": "კვების დამატება"
+  },
+  "settings": {
+    "language": "ენა",
+    "notifications": "შეტყობინებები",
+    "units": "ერთეულები",
+    "privacy": "კონფიდენციალურობა",
+    "about": "შესახებ"
+  },
+  "subscription": {
+    "monthlyPlan": "თვიური გეგმა",
+    "yearlyPlan": "წლიური გეგმა",
+    "currentPlan": "მიმდინარე გეგმა",
+    "features": {
+      "personalAI": "პერსონალური AI მწვრთნელი",
+      "unlimitedRecipes": "შეუზღუდავი რეცეპტები",
+      "advancedAnalytics": "გაფართოებული ანალიტიკა"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "ჯანსაღი კვების საფუძვლები",
+          "description": "შეისწავლეთ დაბალანსებული კვების პრინციპები",
+          "content": [
+            {
+              "subtitle": "რა არის დაბალანსებული კვება?",
+              "text": "დაბალანსებული კვება არის საკვების მიღება, რომელიც უზრუნველყოფს ყველა საჭირო საკვებ ნივთიერებას სწორი პროპორციით. ეს მოიცავს ცილებს, ნახშირწყლებს, ცხიმებს, ვიტამინებს და მინერალებს."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "კვების გეგმა წონის დასაკლებად",
+        "description": "1500 კალორია დღეში",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "ჯანსაღი საუზმე",
+                    "description": "შვრია ხილით",
+                    "ingredients": [
+                      {
+                        "name": "შვრია",
+                        "amount": "50",
+                        "unit": "გ"
+                      },
+                      {
+                        "name": "ბანანი",
+                        "amount": "1",
+                        "unit": "ცალი"
+                      },
+                      {
+                        "name": "რძე 1%",
+                        "amount": "200",
+                        "unit": "მლ"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

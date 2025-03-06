@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Späť",
+    "save": "Uložiť",
+    "cancel": "Zrušiť",
+    "delete": "Vymazať",
+    "edit": "Upraviť",
+    "loading": "Načítava sa...",
+    "search": "Hľadať",
+    "confirm": "Potvrdiť",
+    "apply": "Použiť"
+  },
+  "navigation": {
+    "home": "Domov",
+    "profile": "Profil",
+    "settings": "Nastavenia",
+    "nutrition": "Výživa",
+    "workouts": "Cvičenia",
+    "progress": "Pokrok",
+    "analytics": "Analýza",
+    "articles": "Články"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Úroveň {{level}}",
+    "description": "Sledujte svoju fitness cestu",
+    "achievements": "Úspechy",
+    "statistics": "Štatistiky",
+    "goals": "Ciele"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Plán stravovania",
+    "dailyCalories": "Denné kalórie",
+    "waterIntake": "Príjem vody",
+    "macros": "Makroživiny",
+    "foodDiary": "Stravovací denník",
+    "addMeal": "Pridať jedlo"
+  },
+  "settings": {
+    "language": "Jazyk",
+    "notifications": "Upozornenia",
+    "units": "Jednotky",
+    "privacy": "Súkromie",
+    "about": "O aplikácii"
+  },
+  "subscription": {
+    "monthlyPlan": "Mesačný plán",
+    "yearlyPlan": "Ročný plán",
+    "currentPlan": "Aktuálny plán",
+    "features": {
+      "personalAI": "Osobný AI tréner",
+      "unlimitedRecipes": "Neobmedzené recepty",
+      "advancedAnalytics": "Pokročilá analytika"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Základy zdravého stravovania",
+          "description": "Spoznajte princípy vyváženej stravy",
+          "content": [
+            {
+              "subtitle": "Čo je vyvážená strava?",
+              "text": "Vyvážená strava znamená konzumáciu potravín, ktoré poskytujú všetky potrebné živiny v správnych proporciách. To zahŕňa bielkoviny, sacharidy, tuky, vitamíny a minerály."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Stravovací plán na zníženie hmotnosti",
+        "description": "1500 kalórií denne",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Zdravé raňajky",
+                    "description": "Ovsená kaša s ovocím",
+                    "ingredients": [
+                      {
+                        "name": "Ovsené vločky",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banán",
+                        "amount": "1",
+                        "unit": "ks"
+                      },
+                      {
+                        "name": "Mlieko 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

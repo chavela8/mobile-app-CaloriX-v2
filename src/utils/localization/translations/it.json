@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Indietro",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "delete": "Elimina",
+    "edit": "Modifica",
+    "loading": "Caricamento...",
+    "search": "Cerca",
+    "confirm": "Conferma",
+    "apply": "Applica"
+  },
+  "navigation": {
+    "home": "Home",
+    "profile": "Profilo",
+    "settings": "Impostazioni",
+    "nutrition": "Nutrizione",
+    "workouts": "Allenamenti",
+    "progress": "Progressi",
+    "analytics": "Analisi",
+    "articles": "Articoli"
+  },
+  "profile": {
+    "title": "Profilo",
+    "level": "Livello {{level}}",
+    "description": "Segui il tuo percorso fitness",
+    "achievements": "Obiettivi raggiunti",
+    "statistics": "Statistiche",
+    "goals": "Obiettivi"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Piano Alimentare",
+    "dailyCalories": "Calorie Giornaliere",
+    "waterIntake": "Consumo d'Acqua",
+    "macros": "Macronutrienti",
+    "foodDiary": "Diario Alimentare",
+    "addMeal": "Aggiungi Pasto"
+  },
+  "settings": {
+    "language": "Lingua",
+    "notifications": "Notifiche",
+    "units": "Unità",
+    "privacy": "Privacy",
+    "about": "Info"
+  },
+  "subscription": {
+    "monthlyPlan": "Piano Mensile",
+    "yearlyPlan": "Piano Annuale",
+    "currentPlan": "Piano Attuale",
+    "features": {
+      "personalAI": "Trainer IA Personale",
+      "unlimitedRecipes": "Ricette Illimitate",
+      "advancedAnalytics": "Analisi Avanzate"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Fondamenti di una Sana Alimentazione",
+          "description": "Scopri i principi di un'alimentazione equilibrata",
+          "content": [
+            {
+              "subtitle": "Cos'è un'alimentazione equilibrata?",
+              "text": "Un'alimentazione equilibrata consiste nel consumare alimenti che forniscano tutti i nutrienti necessari nelle giuste proporzioni. Questo include proteine, carboidrati, grassi, vitamine e minerali."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Piano Alimentare per la Perdita di Peso",
+        "description": "1500 calorie al giorno",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Colazione Sana",
+                    "description": "Fiocchi d'avena con frutta",
+                    "ingredients": [
+                      {
+                        "name": "Fiocchi d'avena",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banana",
+                        "amount": "1",
+                        "unit": "pezzo"
+                      },
+                      {
+                        "name": "Latte 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

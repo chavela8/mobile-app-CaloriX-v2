@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Артқа",
+    "save": "Сақтау",
+    "cancel": "Болдырмау",
+    "delete": "Жою",
+    "edit": "Өңдеу",
+    "loading": "Жүктелуде...",
+    "search": "Іздеу",
+    "confirm": "Растау",
+    "apply": "Қолдану"
+  },
+  "navigation": {
+    "home": "Басты бет",
+    "profile": "Профиль",
+    "settings": "Параметрлер",
+    "nutrition": "Тамақтану",
+    "workouts": "Жаттығулар",
+    "progress": "Прогресс",
+    "analytics": "Талдау",
+    "articles": "Мақалалар"
+  },
+  "profile": {
+    "title": "Профиль",
+    "level": "Деңгей {{level}}",
+    "description": "Фитнес жолыңызды қадағалаңыз",
+    "achievements": "Жетістіктер",
+    "statistics": "Статистика",
+    "goals": "Мақсаттар"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Тамақтану жоспары",
+    "dailyCalories": "Күнделікті калориялар",
+    "waterIntake": "Су ішу",
+    "macros": "Макроэлементтер",
+    "foodDiary": "Тамақ күнделігі",
+    "addMeal": "Тамақ қосу"
+  },
+  "settings": {
+    "language": "Тіл",
+    "notifications": "Хабарландырулар",
+    "units": "Өлшем бірліктері",
+    "privacy": "Құпиялылық",
+    "about": "Қосымша туралы"
+  },
+  "subscription": {
+    "monthlyPlan": "Айлық жоспар",
+    "yearlyPlan": "Жылдық жоспар",
+    "currentPlan": "Ағымдағы жоспар",
+    "features": {
+      "personalAI": "Жеке AI жаттықтырушы",
+      "unlimitedRecipes": "Шексіз рецепттер",
+      "advanc"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Дұрыс тамақтанудың негіздері",
+          "description": "Теңдестірілген тамақтану принциптерін үйреніңіз",
+          "content": [
+            {
+              "subtitle": "Теңдестірілген тамақтану дегеніміз не?",
+              "text": "Теңдестірілген тамақтану - барлық қажетті қоректік заттарды дұрыс пропорцияда қамтамасыз ететін тағамдарды тұтыну. Бұған ақуыздар, көмірсулар, майлар, дәрумендер және минералдар кіреді."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Салмақ жоғалту тамақтану жоспары",
+        "description": "Күніне 1500 калория",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Пайдалы таңғы ас",
+                    "description": "Жемістермен сұлы",
+                    "ingredients": [
+                      {
+                        "name": "Сұлы үлпектері",
+                        "amount": "50",
+                        "unit": "г"
+                      },
+                      {
+                        "name": "Банан",
+                        "amount": "1",
+                        "unit": "дана"
+                      },
+                      {
+                        "name": "Сүт 1%",
+                        "amount": "200",
+                        "unit": "мл"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

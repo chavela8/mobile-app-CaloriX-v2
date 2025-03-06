@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Назад",
+    "save": "Зберегти",
+    "cancel": "Скасувати",
+    "delete": "Видалити",
+    "edit": "Редагувати",
+    "loading": "Завантаження...",
+    "search": "Пошук",
+    "confirm": "Підтвердити",
+    "apply": "Застосувати"
+  },
+  "navigation": {
+    "home": "Головна",
+    "profile": "Профіль",
+    "settings": "Налаштування",
+    "nutrition": "Харчування",
+    "workouts": "Тренування",
+    "progress": "Прогрес",
+    "analytics": "Аналітика",
+    "articles": "Статті"
+  },
+  "profile": {
+    "title": "Профіль",
+    "level": "Рівень {{level}}",
+    "description": "Відстежуйте свій фітнес-шлях",
+    "achievements": "Досягнення",
+    "statistics": "Статистика",
+    "goals": "Цілі"
+  },
+  "nutrition": {
+    "mealPlanTitle": "План харчування",
+    "dailyCalories": "Денні калорії",
+    "waterIntake": "Споживання води",
+    "macros": "Макроелементи",
+    "foodDiary": "Щоденник харчування",
+    "addMeal": "Додати прийом їжі"
+  },
+  "settings": {
+    "language": "Мова",
+    "notifications": "Сповіщення",
+    "units": "Одиниці виміру",
+    "privacy": "Конфіденційність",
+    "about": "Про додаток"
+  },
+  "subscription": {
+    "monthlyPlan": "Місячний план",
+    "yearlyPlan": "Річний план",
+    "currentPlan": "Поточний план",
+    "features": {
+      "personalAI": "Персональний AI-тренер",
+      "unlimitedRecipes": "Необмежені рецепти",
+      "advancedAnalytics": "Розширена аналітика"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Основи здорового харчування",
+          "description": "Вивчіть принципи збалансованого харчування",
+          "content": [
+            {
+              "subtitle": "Що таке збалансоване харчування?",
+              "text": "Збалансоване харчування означає споживання їжі, яка забезпечує всі необхідні поживні речовини у правильних пропорціях. Це включає білки, вуглеводи, жири, вітаміни та мінерали."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "План харчування для зниження ваги",
+        "description": "1500 калорій на день",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Здоровий сніданок",
+                    "description": "Вівсянка з фруктами",
+                    "ingredients": [
+                      {
+                        "name": "Вівсяні пластівці",
+                        "amount": "50",
+                        "unit": "г"
+                      },
+                      {
+                        "name": "Банан",
+                        "amount": "1",
+                        "unit": "шт"
+                      },
+                      {
+                        "name": "Молоко 1%",
+                        "amount": "200",
+                        "unit": "мл"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

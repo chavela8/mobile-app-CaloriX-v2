@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Voltar",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "loading": "Carregando...",
+    "search": "Pesquisar",
+    "confirm": "Confirmar",
+    "apply": "Aplicar"
+  },
+  "navigation": {
+    "home": "Início",
+    "profile": "Perfil",
+    "settings": "Configurações",
+    "nutrition": "Nutrição",
+    "workouts": "Treinos",
+    "progress": "Progresso",
+    "analytics": "Análises",
+    "articles": "Artigos"
+  },
+  "profile": {
+    "title": "Perfil",
+    "level": "Nível {{level}}",
+    "description": "Acompanhe sua jornada fitness",
+    "achievements": "Conquistas",
+    "statistics": "Estatísticas",
+    "goals": "Objetivos"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Plano de Refeições",
+    "dailyCalories": "Calorias Diárias",
+    "waterIntake": "Consumo de Água",
+    "macros": "Macronutrientes",
+    "foodDiary": "Diário Alimentar",
+    "addMeal": "Adicionar Refeição"
+  },
+  "settings": {
+    "language": "Idioma",
+    "notifications": "Notificações",
+    "units": "Unidades",
+    "privacy": "Privacidade",
+    "about": "Sobre"
+  },
+  "subscription": {
+    "monthlyPlan": "Plano Mensal",
+    "yearlyPlan": "Plano Anual",
+    "currentPlan": "Plano Atual",
+    "features": {
+      "personalAI": "Treinador IA Pessoal",
+      "unlimitedRecipes": "Receitas Ilimitadas",
+      "advancedAnalytics": "Análises Avançadas"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Fundamentos da Alimentação Saudável",
+          "description": "Aprenda os princípios de uma alimentação equilibrada",
+          "content": [
+            {
+              "subtitle": "O que é uma alimentação equilibrada?",
+              "text": "Uma alimentação equilibrada consiste em consumir alimentos que forneçam todos os nutrientes necessários nas proporções corretas. Isso inclui proteínas, carboidratos, gorduras, vitaminas e minerais."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Plano Alimentar para Perda de Peso",
+        "description": "1500 calorias por dia",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Café da Manhã Saudável",
+                    "description": "Aveia com frutas",
+                    "ingredients": [
+                      {
+                        "name": "Aveia",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banana",
+                        "amount": "1",
+                        "unit": "unidade"
+                      },
+                      {
+                        "name": "Leite 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

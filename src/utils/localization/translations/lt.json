@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Atgal",
+    "save": "Išsaugoti",
+    "cancel": "Atšaukti",
+    "delete": "Ištrinti",
+    "edit": "Redaguoti",
+    "loading": "Kraunama...",
+    "search": "Ieškoti",
+    "confirm": "Patvirtinti",
+    "apply": "Taikyti"
+  },
+  "navigation": {
+    "home": "Pagrindinis",
+    "profile": "Profilis",
+    "settings": "Nustatymai",
+    "nutrition": "Mityba",
+    "workouts": "Treniruotės",
+    "progress": "Pažanga",
+    "analytics": "Analizė",
+    "articles": "Straipsniai"
+  },
+  "profile": {
+    "title": "Profilis",
+    "level": "Lygis {{level}}",
+    "description": "Sekite savo fitneso kelionę",
+    "achievements": "Pasiekimai",
+    "statistics": "Statistika",
+    "goals": "Tikslai"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Mitybos planas",
+    "dailyCalories": "Dienos kalorijos",
+    "waterIntake": "Vandens suvartojimas",
+    "macros": "Makroelementai",
+    "foodDiary": "Maisto dienoraštis",
+    "addMeal": "Pridėti valgį"
+  },
+  "settings": {
+    "language": "Kalba",
+    "notifications": "Pranešimai",
+    "units": "Vienetai",
+    "privacy": "Privatumas",
+    "about": "Apie"
+  },
+  "subscription": {
+    "monthlyPlan": "Mėnesinis planas",
+    "yearlyPlan": "Metinis planas",
+    "currentPlan": "Dabartinis planas",
+    "features": {
+      "personalAI": "Asmeninis AI treneris",
+      "unlimitedRecipes": "Neriboti receptai",
+      "advancedAnalytics": "Išplėstinė analitika"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Sveikos mitybos pagrindai",
+          "description": "Sužinokite subalansuotos mitybos principus",
+          "content": [
+            {
+              "subtitle": "Kas yra subalansuota mityba?",
+              "text": "Subalansuota mityba reiškia maisto, kuris teikia visas būtinas maistines medžiagas tinkamomis proporcijomis, vartojimą. Tai apima baltymus, angliavandenius, riebalus, vitaminus ir mineralus."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Mitybos planas svorio metimui",
+        "description": "1500 kalorijų per dieną",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Sveiki pusryčiai",
+                    "description": "Avižinė košė su vaisiais",
+                    "ingredients": [
+                      {
+                        "name": "Avižiniai dribsniai",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Bananas",
+                        "amount": "1",
+                        "unit": "vnt"
+                      },
+                      {
+                        "name": "Pienas 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

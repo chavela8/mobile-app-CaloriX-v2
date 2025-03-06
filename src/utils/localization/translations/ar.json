@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "رجوع",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "loading": "جاري التحميل...",
+    "search": "بحث",
+    "confirm": "تأكيد",
+    "apply": "تطبيق"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات",
+    "nutrition": "التغذية",
+    "workouts": "التمارين",
+    "progress": "التقدم",
+    "analytics": "التحليلات",
+    "articles": "المقالات"
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "level": "المستوى {{level}}",
+    "description": "تتبع رحلتك الرياضية",
+    "achievements": "الإنجازات",
+    "statistics": "الإحصائيات",
+    "goals": "الأهداف"
+  },
+  "nutrition": {
+    "mealPlanTitle": "خطة الوجبات",
+    "dailyCalories": "السعرات اليومية",
+    "waterIntake": "شرب الماء",
+    "macros": "العناصر الغذائية الكبرى",
+    "foodDiary": "يوميات الطعام",
+    "addMeal": "إضافة وجبة"
+  },
+  "settings": {
+    "language": "اللغة",
+    "notifications": "الإشعارات",
+    "units": "الوحدات",
+    "privacy": "الخصوصية",
+    "about": "حول"
+  },
+  "subscription": {
+    "monthlyPlan": "الخطة الشهرية",
+    "yearlyPlan": "الخطة السنوية",
+    "currentPlan": "الخطة الحالية",
+    "features": {
+      "personalAI": "مدرب ذكاء اصطناعي شخصي",
+      "unlimitedRecipes": "وصفات غير محدودة",
+      "advancedAnalytics": "تحليلات متقدمة"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "أساسيات التغذية الصحية",
+          "description": "تعلم مبادئ النظام الغذائي المتوازن",
+          "content": [
+            {
+              "subtitle": "ما هو النظام الغذائي المتوازن؟",
+              "text": "النظام الغذائي المتوازن يعني تناول الأطعمة التي توفر جميع العناصر الغذائية الضرورية بالنسب الصحيحة. وهذا يشمل البروتينات والكربوهيدرات والدهون والفيتامينات والمعادن."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "خطة غذائية لإنقاص الوزن",
+        "description": "1500 سعرة حرارية يومياً",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "فطور صحي",
+                    "description": "شوفان مع الفواكه",
+                    "ingredients": [
+                      {
+                        "name": "شوفان",
+                        "amount": "50",
+                        "unit": "جرام"
+                      },
+                      {
+                        "name": "موز",
+                        "amount": "1",
+                        "unit": "حبة"
+                      },
+                      {
+                        "name": "حليب 1%",
+                        "amount": "200",
+                        "unit": "مل"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

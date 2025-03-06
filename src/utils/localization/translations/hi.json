@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "वापस",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "loading": "लोड हो रहा है...",
+    "search": "खोजें",
+    "confirm": "पुष्टि करें",
+    "apply": "लागू करें"
+  },
+  "navigation": {
+    "home": "होम",
+    "profile": "प्रोफ़ाइल",
+    "settings": "सेटिंग्स",
+    "nutrition": "पोषण",
+    "workouts": "व्यायाम",
+    "progress": "प्रगति",
+    "analytics": "विश्लेषण",
+    "articles": "लेख"
+  },
+  "profile": {
+    "title": "प्रोफ़ाइल",
+    "level": "स्तर {{level}}",
+    "description": "अपनी फिटनेस यात्रा को ट्रैक करें",
+    "achievements": "उपलब्धियां",
+    "statistics": "आंकड़े",
+    "goals": "लक्ष्य"
+  },
+  "nutrition": {
+    "mealPlanTitle": "भोजन योजना",
+    "dailyCalories": "दैनिक कैलोरी",
+    "waterIntake": "पानी का सेवन",
+    "macros": "मैक्रोन्यूट्रिएंट्स",
+    "foodDiary": "खाद्य डायरी",
+    "addMeal": "भोजन जोड़ें"
+  },
+  "settings": {
+    "language": "भाषा",
+    "notifications": "सूचनाएं",
+    "units": "इकाइयां",
+    "privacy": "गोपनीयता",
+    "about": "जानकारी"
+  },
+  "subscription": {
+    "monthlyPlan": "मासिक योजना",
+    "yearlyPlan": "वार्षिक योजना",
+    "currentPlan": "वर्तमान योजना",
+    "features": {
+      "personalAI": "व्यक्तिगत AI प्रशिक्षक",
+      "unlimitedRecipes": "असीमित व्यंजन",
+      "advancedAnalytics": "उन्नत विश्लेषण"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "स्वस्थ आहार के मूल सिद्धांत",
+          "description": "संतुलित आहार के सिद्धांतों को जानें",
+          "content": [
+            {
+              "subtitle": "संतुलित आहार क्या है?",
+              "text": "संतुलित आहार का अर्थ है ऐसा भोजन करना जो सभी आवश्यक पोषक तत्वों को सही अनुपात में प्रदान करे। इसमें प्रोटीन, कार्बोहाइड्रेट, वसा, विटामिन और खनिज शामिल हैं।"
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "वजन घटाने की आहार योजना",
+        "description": "1500 कैलोरी प्रति दिन",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "स्वस्थ नाश्ता",
+                    "description": "फलों के साथ दलिया",
+                    "ingredients": [
+                      {
+                        "name": "ओट्स",
+                        "amount": "50",
+                        "unit": "ग्राम"
+                      },
+                      {
+                        "name": "केला",
+                        "amount": "1",
+                        "unit": "नग"
+                      },
+                      {
+                        "name": "दूध 1%",
+                        "amount": "200",
+                        "unit": "मिली"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

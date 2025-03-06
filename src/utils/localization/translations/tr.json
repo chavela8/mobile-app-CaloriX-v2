@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Geri",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "loading": "Yükleniyor...",
+    "search": "Ara",
+    "confirm": "Onayla",
+    "apply": "Uygula"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "nutrition": "Beslenme",
+    "workouts": "Egzersizler",
+    "progress": "İlerleme",
+    "analytics": "Analiz",
+    "articles": "Makaleler"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Seviye {{level}}",
+    "description": "Fitness yolculuğunuzu takip edin",
+    "achievements": "Başarılar",
+    "statistics": "İstatistikler",
+    "goals": "Hedefler"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Yemek Planı",
+    "dailyCalories": "Günlük Kalori",
+    "waterIntake": "Su Tüketimi",
+    "macros": "Makro Besinler",
+    "foodDiary": "Yemek Günlüğü",
+    "addMeal": "Öğün Ekle"
+  },
+  "settings": {
+    "language": "Dil",
+    "notifications": "Bildirimler",
+    "units": "Birimler",
+    "privacy": "Gizlilik",
+    "about": "Hakkında"
+  },
+  "subscription": {
+    "monthlyPlan": "Aylık Plan",
+    "yearlyPlan": "Yıllık Plan",
+    "currentPlan": "Mevcut Plan",
+    "features": {
+      "personalAI": "Kişisel YZ Antrenör",
+      "unlimitedRecipes": "Sınırsız Tarifler",
+      "advancedAnalytics": "Gelişmiş Analizler"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Sağlıklı Beslenmenin Temelleri",
+          "description": "Dengeli beslenmenin ilkelerini öğrenin",
+          "content": [
+            {
+              "subtitle": "Dengeli beslenme nedir?",
+              "text": "Dengeli beslenme, tüm gerekli besin maddelerini doğru oranlarda sağlayan gıdaları tüketmek anlamına gelir. Bu, proteinler, karbonhidratlar, yağlar, vitaminler ve mineralleri içerir."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Kilo Verme Beslenme Planı",
+        "description": "Günde 1500 kalori",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Sağlıklı Kahvaltı",
+                    "description": "Meyveli yulaf ezmesi",
+                    "ingredients": [
+                      {
+                        "name": "Yulaf",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Muz",
+                        "amount": "1",
+                        "unit": "adet"
+                      },
+                      {
+                        "name": "%1 Süt",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

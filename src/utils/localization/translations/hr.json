@@ -1,0 +1,84 @@
+{
+  "common": {
+    "back": "Natrag",
+    "save": "Spremi",
+    "cancel": "Odustani",
+    "delete": "Izbriši",
+    "edit": "Uredi",
+    "loading": "Učitavanje...",
+    "search": "Pretraži",
+    "confirm": "Potvrdi",
+    "apply": "Primijeni"
+  },
+  "navigation": {
+    "home": "Početna",
+    "profile": "Profil",
+    "settings": "Postavke",
+    "nutrition": "Prehrana",
+    "workouts": "Vježbe",
+    "progress": "Napredak",
+    "analytics": "Analitika",
+    "articles": "Članci"
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Osnove zdrave prehrane",
+          "description": "Naučite principe uravnotežene prehrane",
+          "content": [
+            {
+              "subtitle": "Što je uravnotežena prehrana?",
+              "text": "Uravnotežena prehrana znači konzumiranje hrane koja osigurava sve potrebne hranjive tvari u pravim omjerima. To uključuje proteine, ugljikohidrate, masti, vitamine i minerale."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Plan prehrane za gubitak težine",
+        "description": "1500 kalorija dnevno",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Zdrav doručak",
+                    "description": "Zobena kaša s voćem",
+                    "ingredients": [
+                      {
+                        "name": "Zobene pahuljice",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "Banana",
+                        "amount": "1",
+                        "unit": "kom"
+                      },
+                      {
+                        "name": "Mlijeko 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "戻る",
+    "save": "保存",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "edit": "編集",
+    "loading": "読み込み中...",
+    "search": "検索",
+    "confirm": "確認",
+    "apply": "適用"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "profile": "プロフィール",
+    "settings": "設定",
+    "nutrition": "栄養",
+    "workouts": "トレーニング",
+    "progress": "進捗",
+    "analytics": "分析",
+    "articles": "記事"
+  },
+  "profile": {
+    "title": "プロフィール",
+    "level": "レベル {{level}}",
+    "description": "フィットネスの旅を追跡",
+    "achievements": "達成",
+    "statistics": "統計",
+    "goals": "目標"
+  },
+  "nutrition": {
+    "mealPlanTitle": "食事プラン",
+    "dailyCalories": "1日のカロリー",
+    "waterIntake": "水分摂取",
+    "macros": "マクロ栄養素",
+    "foodDiary": "食事日記",
+    "addMeal": "食事を追加"
+  },
+  "settings": {
+    "language": "言語",
+    "notifications": "通知",
+    "units": "単位",
+    "privacy": "プライバシー",
+    "about": "概要"
+  },
+  "subscription": {
+    "monthlyPlan": "月間プラン",
+    "yearlyPlan": "年間プラン",
+    "currentPlan": "現在のプラン",
+    "features": {
+      "personalAI": "パーソナルAIトレーナー",
+      "unlimitedRecipes": "無制限のレシピ",
+      "advancedAnalytics": "高度な分析"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "健康的な食事の基本",
+          "description": "バランスの取れた食事の原則を学ぶ",
+          "content": [
+            {
+              "subtitle": "バランスの取れた食事とは？",
+              "text": "バランスの取れた食事とは、必要な栄養素をすべて適切な割合で含む食事を摂ることです。これにはタンパク質、炭水化物、脂質、ビタミン、ミネラルが含まれます。"
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "減量のための食事プラン",
+        "description": "1日1500カロリー",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "健康的な朝食",
+                    "description": "フルーツ入りオートミール",
+                    "ingredients": [
+                      {
+                        "name": "オートミール",
+                        "amount": "50",
+                        "unit": "g"
+                      },
+                      {
+                        "name": "バナナ",
+                        "amount": "1",
+                        "unit": "個"
+                      },
+                      {
+                        "name": "牛乳1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Назад",
+    "save": "Сачувај",
+    "cancel": "Откажи",
+    "delete": "Обриши",
+    "edit": "Измени",
+    "loading": "Учитавање...",
+    "search": "Претрага",
+    "confirm": "Потврди",
+    "apply": "Примени"
+  },
+  "navigation": {
+    "home": "Почетна",
+    "profile": "Профил",
+    "settings": "Подешавања",
+    "nutrition": "Исхрана",
+    "workouts": "Вежбе",
+    "progress": "Напредак",
+    "analytics": "Аналитика",
+    "articles": "Чланци"
+  },
+  "profile": {
+    "title": "Профил",
+    "level": "Ниво {{level}}",
+    "description": "Пратите свој фитнес пут",
+    "achievements": "Достигнућа",
+    "statistics": "Статистика",
+    "goals": "Циљеви"
+  },
+  "nutrition": {
+    "mealPlanTitle": "План исхране",
+    "dailyCalories": "Дневне калорије",
+    "waterIntake": "Унос воде",
+    "macros": "Макронутријенти",
+    "foodDiary": "Дневник исхране",
+    "addMeal": "Додај оброк"
+  },
+  "settings": {
+    "language": "Језик",
+    "notifications": "Обавештења",
+    "units": "Јединице",
+    "privacy": "Приватност",
+    "about": "О апликацији"
+  },
+  "subscription": {
+    "monthlyPlan": "Месечни план",
+    "yearlyPlan": "Годишњи план",
+    "currentPlan": "Тренутни план",
+    "features": {
+      "personalAI": "Лични AI тренер",
+      "unlimitedRecipes": "Неограничени рецепти",
+      "advancedAnalytics": "Напредна аналитика"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Основе здраве исхране",
+          "description": "Научите принципе уравнотежене исхране",
+          "content": [
+            {
+              "subtitle": "Шта је уравнотежена исхрана?",
+              "text": "Уравнотежена исхрана значи конзумирање хране која обезбеђује све неопходне хранљиве материје у правилним пропорцијама. То укључује протеине, угљене хидрате, масти, витамине и минерале."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "План исхране за губитак тежине",
+        "description": "1500 калорија дневно",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Здрав доручак",
+                    "description": "Овсена каша са воћем",
+                    "ingredients": [
+                      {
+                        "name": "Овсене пахуљице",
+                        "amount": "50",
+                        "unit": "г"
+                      },
+                      {
+                        "name": "Банана",
+                        "amount": "1",
+                        "unit": "ком"
+                      },
+                      {
+                        "name": "Млеко 1%",
+                        "amount": "200",
+                        "unit": "мл"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

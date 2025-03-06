@@ -1,0 +1,117 @@
+{
+  "common": {
+    "back": "Πίσω",
+    "save": "Αποθήκευση",
+    "cancel": "Ακύρωση",
+    "delete": "Διαγραφή",
+    "edit": "Επεξεργασία",
+    "loading": "Φόρτωση...",
+    "search": "Αναζήτηση",
+    "confirm": "Επιβεβαίωση",
+    "apply": "Εφαρμογή"
+  },
+  "navigation": {
+    "home": "Αρχική",
+    "profile": "Προφίλ",
+    "settings": "Ρυθμίσεις",
+    "nutrition": "Διατροφή",
+    "workouts": "Ασκήσεις",
+    "progress": "Πρόοδος",
+    "analytics": "Ανάλυση",
+    "articles": "Άρθρα"
+  },
+  "profile": {
+    "title": "Προφίλ",
+    "level": "Επίπεδο {{level}}",
+    "description": "Παρακολουθήστε το ταξίδι σας στο fitness",
+    "achievements": "Επιτεύγματα",
+    "statistics": "Στατιστικά",
+    "goals": "Στόχοι"
+  },
+  "nutrition": {
+    "mealPlanTitle": "Πρόγραμμα Γευμάτων",
+    "dailyCalories": "Ημερήσιες Θερμίδες",
+    "waterIntake": "Πρόσληψη Νερού",
+    "macros": "Μακροθρεπτικά",
+    "foodDiary": "Ημερολόγιο Διατροφής",
+    "addMeal": "Προσθήκη Γεύματος"
+  },
+  "settings": {
+    "language": "Γλώσσα",
+    "notifications": "Ειδοποιήσεις",
+    "units": "Μονάδες",
+    "privacy": "Απόρρητο",
+    "about": "Σχετικά"
+  },
+  "subscription": {
+    "monthlyPlan": "Μηνιαίο Πλάνο",
+    "yearlyPlan": "Ετήσιο Πλάνο",
+    "currentPlan": "Τρέχον Πλάνο",
+    "features": {
+      "personalAI": "Προσωπικός AI Προπονητής",
+      "unlimitedRecipes": "Απεριόριστες Συνταγές",
+      "advancedAnalytics": "Προηγμένη Ανάλυση"
+    }
+  },
+  "content": {
+    "articles": {
+      "nutrition": {
+        "article1": {
+          "title": "Βασικές αρχές υγιεινής διατροφής",
+          "description": "Μάθετε τις αρχές της ισορροπημένης διατροφής",
+          "content": [
+            {
+              "subtitle": "Τι είναι η ισορροπημένη διατροφή;",
+              "text": "Η ισορροπημένη διατροφή σημαίνει κατανάλωση τροφών που παρέχουν όλα τα απαραίτητα θρεπτικά συστατικά στις σωστές αναλογίες. Αυτό περιλαμβάνει πρωτεΐνες, υδατάνθρακες, λίπη, βιταμίνες και μέταλλα."
+            }
+          ]
+        }
+      }
+    },
+    "mealPlans": {
+      "weightLoss": {
+        "title": "Πρόγραμμα διατροφής για απώλεια βάρους",
+        "description": "1500 θερμίδες την ημέρα",
+        "weeks": [
+          {
+            "weekNumber": 1,
+            "days": [
+              {
+                "dayNumber": 1,
+                "meals": {
+                  "breakfast": {
+                    "title": "Υγιεινό πρωινό",
+                    "description": "Βρώμη με φρούτα",
+                    "ingredients": [
+                      {
+                        "name": "Νιφάδες βρώμης",
+                        "amount": "50",
+                        "unit": "γρ"
+                      },
+                      {
+                        "name": "Μπανάνα",
+                        "amount": "1",
+                        "unit": "τεμ"
+                      },
+                      {
+                        "name": "Γάλα 1%",
+                        "amount": "200",
+                        "unit": "ml"
+                      }
+                    ],
+                    "nutritionFacts": {
+                      "calories": 300,
+                      "protein": 10,
+                      "carbs": 55,
+                      "fats": 5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 
