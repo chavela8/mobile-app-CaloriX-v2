@@ -1,4 +1,3 @@
-
 // Language data
 export const languagesData = [
   { code: "ru", name: "Русский", flag: "🇷🇺" },
@@ -38,6 +37,12 @@ export const languagesData = [
   { code: "uz", name: "O'zbek", flag: "🇺🇿" },
   { code: "ky", name: "Кыргызча", flag: "🇰🇬" },
   { code: "tk", name: "Türkmençe", flag: "🇹🇲" },
+  { code: "bg", name: "Български", flag: "🇧🇬" },
+  { code: "sr", name: "Српски", flag: "🇷🇸" },
+  { code: "hr", name: "Hrvatski", flag: "🇭🇷" },
+  { code: "sl", name: "Slovenščina", flag: "🇸🇮" },
+  { code: "ro", name: "Română", flag: "🇷🇴" },
+  { code: "hu", name: "Magyar", flag: "🇭🇺" },
 ];
 
 // Region data
@@ -67,6 +72,9 @@ export const regionsData = [
   { code: "cz", name: "Czech Republic", currency: "CZK", symbol: "Kč" },
   { code: "hu", name: "Hungary", currency: "HUF", symbol: "Ft" },
   { code: "ro", name: "Romania", currency: "RON", symbol: "lei" },
+  { code: "bg", name: "Bulgaria", currency: "BGN", symbol: "лв" },
+  { code: "rs", name: "Serbia", currency: "RSD", symbol: "дин." },
+  { code: "hr", name: "Croatia", currency: "HRK", symbol: "kn" },
 ];
 
 // Timezone data
