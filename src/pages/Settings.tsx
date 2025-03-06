@@ -11,16 +11,16 @@ import {
   regionsData, 
   timezonesData, 
   exchangeRates 
-} from "@/components/settings/data/settingsData.ts";
+} from "@/components/Settings/data/settingsData.ts";
 
 // Import settings components
-import SettingsSidebar from "@/components/settings/SettingsSidebar.tsx";
-import AccountSettings from "@/components/settings/AccountSettings.tsx";
-import AppearanceSettings from "@/components/settings/AppearanceSettings.tsx";
-import NotificationSettings from "@/components/settings/NotificationSettings.tsx";
-import SubscriptionSettings from "@/components/settings/SubscriptionSettings.tsx";
-import LanguageSettings from "@/components/settings/LanguageSettings.tsx";
-import HelpSupportSettings from "@/components/settings/HelpSupportSettings.tsx";
+import SettingsSidebar from "@/components/Settings/SettingsSidebar.tsx";
+import AccountSettings from "@/components/Settings/AccountSettings.tsx";
+import AppearanceSettings from "@/components/Settings/AppearanceSettings.tsx";
+import NotificationSettings from "@/components/Settings/NotificationSettings.tsx";
+import SubscriptionSettings from "@/components/Settings/SubscriptionSettings.tsx";
+import LanguageSettings from "@/components/Settings/LanguageSettings.tsx";
+import HelpSupportSettings from "@/components/Settings/HelpSupportSettings.tsx";
 
 const Settings = () => {
   const { theme, setTheme } = useTheme();
